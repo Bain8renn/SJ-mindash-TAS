@@ -407,7 +407,7 @@ EndRepeat
 Repeat 4
    1,R,J
   14,R
-EndRepeat 
+EndRepeat
    1,R,J
   13,R
   40
@@ -714,10 +714,8 @@ EndRepeat
    5,R,D
    6,R
    1,R,G
-Repeat 1
    1
    1,G
-EndRepeat
    1,J,G
   14,G
   48,L,J

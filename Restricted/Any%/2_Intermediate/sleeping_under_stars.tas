@@ -362,11 +362,9 @@ Repeat 6
   19,G
    2,R,G
 EndRepeat
-Repeat 1
    1,L,D
   17,G
    4,L,G
-EndRepeat
 Repeat 14
    1,L,D
   18,G
@@ -810,11 +808,9 @@ EndRepeat
    1,L,D
   21,L,U,J,G
    1,R,D
-Repeat,1
   16,R,U,J,G
    5,U,J,G
    1,R,D
-EndRepeat
   16,R,U,J,G
    5,U,J,G
    1,R
