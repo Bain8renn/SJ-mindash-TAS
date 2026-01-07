@@ -1,7 +1,7 @@
 # StrawberryJam2021
 # https://gamebanana.com/mods/424541
 
-RecordCount: 3443
+RecordCount: 3657
 
 console load StrawberryJam2021/3-Advanced/Goldian
    1
@@ -64,38 +64,44 @@ console load StrawberryJam2021/3-Advanced/Goldian
   14,R
    1,R,J
   14,R
-   1,R,J
-  29,R
-  25,R,J
-   7,R
-   1
-  13,R,U,Z
-  12,R,J
-  44,R,J,G
+   8,R,J
+  17,R,D
+   5,L,D
+   1,L,J,G
    1,K,G
-  27,R,K,G
-   1,J,G
-  27,R,J,G
-   1,K,G
-  26,R,K,G
-  11,L,J,G
-   9,R,K,G
-  19,R,G
-   4,R,J,G
-   1,R,J
-  35,R
-   3,R,D
+   3,L
+   3
+   1,J
+   1,L
+   2
+   2,R
+  42,R,J
+  15,U,X
    1,R
+   1
+  10,R,J
+  37,R,J,G
+   5,K,G
+   9,L,K,G
+  10,R,J,G
+   5,R,G
+   1,R,J,G
+   1,R,G
+   1,R,J,G
+  10,R,G
+   1,R,J,G
+   4,R,J
+  32,R
    1,R,D
+   1,R
+   6,R,D
    1,R,J,G
    1,R,K,G
   15,R
-  12,R,J
-   2,J
-   1,L,K,G
-   1,L,J,G
-  11,R,K
-   5,R
+  13,R,J
+   1,K
+   8,J
+  11,R,J
    1,R,K,G
    1,R,J,G
    9,R
@@ -888,4 +894,4 @@ EndRepeat
   14,R,J
  146,R,X
 
-ChapterTime: 2:08.843(7579)
+ChapterTime: 2:07.806(7518)
