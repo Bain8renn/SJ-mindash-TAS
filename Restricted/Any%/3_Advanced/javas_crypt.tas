@@ -1,12 +1,12 @@
 # StrawberryJam2021
 # https://gamebanana.com/mods/424541
 
-RecordCount: 2742
+RecordCount: 2778
 
 console load StrawberryJam2021/3-Advanced/Tortoise
    1
 
-#17x
+#16x
 
 #Start
 #1x
@@ -470,16 +470,19 @@ console load StrawberryJam2021/3-Advanced/Tortoise
 #5x
    3
    1,D,K
-   1,R,J,G
-   6,R
-  13,L
-   3,J,G
-   2,L,J
-   1,J
-   1,L,J
+   2,J,G
+   7,R
    1,R,J
-   4,J
-  12,K,G
+   1,R
+   1,R,J
+   3,R
+   4,L
+   6,L,J
+   6,R,J
+
+   1,K,G
+   3,R,K
+   8,K
    3,J,G
    1,L,J
    7,R,J
@@ -798,4 +801,4 @@ EndRepeat
   16,U,X
  135
 
-ChapterTime: 1:15.735(4455)
+ChapterTime: 1:15.718(4454)
