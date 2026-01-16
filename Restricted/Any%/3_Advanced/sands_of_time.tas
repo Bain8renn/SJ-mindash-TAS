@@ -1,7 +1,7 @@
 # StrawberryJam2021
 # https://gamebanana.com/mods/424541
 
-RecordCount: 3764
+RecordCount: 3772
 
 console load StrawberryJam2021/3-Advanced/astraxel
    1
@@ -498,6 +498,7 @@ EndRepeat
    1,K
   24
    6,L
+
   14,L,Z
   51,L,J
    2,L,K
@@ -615,9 +616,9 @@ EndRepeat
   27,R,J
   17,R,X
   47
-  20,R,D,J
+  20,R,J
   12,R,K,G
-  11,R,J,G
+  10,R,J,G
   40
 
 #lvl_mini-hearth
@@ -669,4 +670,4 @@ EndRepeat
   17,U,X
  135
 
-ChapterTime: 1:49.344(6432)
+ChapterTime: 1:49.327(6431)
