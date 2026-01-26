@@ -1,7 +1,7 @@
 # StrawberryJam2021
 # https://gamebanana.com/mods/424541
 
-RecordCount: 3949
+RecordCount: 4645
 
 console load StrawberryJam2021/3-Advanced/Maladroit
    1
@@ -399,104 +399,94 @@ Endrepeat
 #(6x)
   11,R,D,G
    1,R,J,G
-  50,R,G
-   1,L
-  40,R,G
-   1,R,U,G
+  58,R,G
+  11,R,D,G
+   1,R
+  27,R,G
+   2,R,U,G
    1,R
    1,R,J,G
    1,R,K,G
-   1,R,J,G
-   3,R,K,G
-  48,R
-  53,R,D
-  13,D
+  22,R,J,G
+   6,R,G
    1,R,D
-  25,R,J
-  11,R
-#dash
-  28,R,U,X
-  17
-#dash
-  13,U,X
-  30,G
-  16,L,D,G
-  27,D,G
-   8,K,G
-  15,L,K,G
-   6,L,G
-   4,G
-   2,D
-   3,J,G
-   7,L,J
-   3,J
-  27,L,J,G
+  55,R,J
+  66,R
+  37,R,U,Z
+  14,U,X
+   4,R
+  15,L,J
+  38,L,U,J,G
+   1,L
+   1
+   2,J,G
+  60,L,U,J,G
+  32,L,D,G
    1,R
-  60,L
-   9
-  15,L,K
-   7,L
-   4
-  11,R
-  12,D
-   1,L,D
+  17,L
+   1,G
+   1
+   1,J
+  24
+   4,L
+  19,R
+  10
    1,D
+   7,K
+   6,L
+   4,L,J
+  10,L
+Repeat, 15
+   1,L,G
+   1,L
+EndRepeat
+   1,J
+  19,L
+   4,L,D
+   1,L
+   1,L,G
+   2,L
+   1,L,G
+  19,L,J,G
    2,L,D
    1,D
-  22,R,D
-   1,K
-  22,L,K
-  13
-   1,G
-   1,K,G
-  14
-  11,K
+   1,J,G
+   1,R,J
+   1,L,K,G
+   2,L,J,G
+  13,L
+   1,L,J
+  21,L,D
+   3,D
+   6,L,J
+  52,L,G
+  44,L,D,G
+  12,L,G
    1,R
-   1,K
-   1,L,K
-   1,R,K
-   1,L,K
-   1,R,K
-   1,L,K
+  14,L,D
+   7,R
+  50,L
+   1,L,J
+  19,L
+   1,R,J
+   1
+  18,R,D
+   7,R,U,G
    1,R
-   5
-   1,L
-   1,R
-   3
-  14,L,K
-   1,K,G
-  23,L,J
-   1,G
-   5,K
-  41,L
-#dash
-   4,L,Z
-   4,L,K
-  66,L
-  56,R
-  22,L,K
-   8,R
-   7
-   1,K
-   5
-   5,R
-   3
-   5,R
-  26,G
-   2,D,G
-   1,G
-   1,R,K
    1,R,J,G
    1,R,K,G
    1,R,J,G
-  13,R
-  24,R,K
-  11,J,G
-   1,L,J
-  16,R,K,G
+   1,R,K,G
+  10,R
+  28,R,J
+  12,R,K,G
+  12,R,J,G
+   2,R,K,G
+
+# 4004.37, 435.84
    1,J
-   2,K,G
-   4,L,K
+   3,K,G
+   3,L,K
   25,R
 #dash
    5,U,X
@@ -512,142 +502,140 @@ Endrepeat
    1,R,J,G
    1,J,G
    1,L,J,G
-  16,J,G
-   2,D
-   1
+  13,J,G
+   3,D
    1,G
-   1,R,K
-  26,R,J
-  24,R,K
-   2,K
    1,R,J,G
+  20,R,K
+   5,R
+  24,R,J
+   2,R
    1,R,K,G
-  10,R
-   1,R,K
+   1,R,J,G
+   9,R
+   1,R,J
    3,R
   40
 
 #lvl_A7
 #(5x)
-  15,R
+   8,R
+   1
+   4,R
    1,R,K
    1,R,J,G
    1,R,K,G
   11,R
    1,R,K
   14,R
-  30,R,K
-  63,G
-   1,L,K,G
-  73,L,J,G
-  12,R,G
-  12,L,G
-  44,R,U,G
-   1,R,K,G
-   1,R,G
-  10,R,U,K,G
-  38,R,U,G
-  23,D
-#dash
-  15,U,X
-  23,G
-   2,L,G
-   1,G
-   1,L,G
-   1,G
-   1,L,G
-   1,G
-   1,L,G
-   1,L,D
-   1,K
-  20,R,K,G
-  14,R,G
-  17,G
-   1,D
-  20,K,G
-  24,R,K,G
+   9,R,K
+  55,U,G
    1,J,G
-  44,L,K,G
-   1,L
-  16,D
-  61,L,D
-  23,R,D
-  12,R,J,G
-   2,R,K,G
-  21,R
-  18,R,U,G
-  12,J,G
-  12,K,G
-  12,J,G
-  18,K,G
-  10,J,G
-   7,K,G
-  13,R
-  12,J
-  21,J,G
    1
-  20,D
-   6,R,D
-  12,R,D,J
-   2,K,G
-   1,L,K
+   2,L
+  72,L,U,J,G
+  47,D,G
+  15,R,D,G
+  12,R,G
    1,R,J,G
-   2,L,J
-   8,J
-   1,L,J
-   1,R,J
-   1,J
-   1,L,J
-   1,K
-  13,R,K
-  28,R,K,G
-   1,R
-   2,J,G
+  50,R,U,G
+   1,R,D
+   6,R
    2
-   1,K,G
-  10,K
-   5,L,K
-  21,L,U,J,G
-   1,R
-   1,L
-   1,R,K
-  13,R,K,G
-  15,K,G
+  25,U,X,G
+   4,L,U,J,G
+   5,U,J,G
+   1,L,U,J,G
+Repeat, 7
+   1,L,U,J,G
+   1,U,J,G
+EndRepeat
+   1,D,K
+  19,R,K
+   6,R
+   1,L,J
+  17,L,U,J,G
+  13,L,U,G
+  22,R,U,J,G
+   1,R,G
+   1,G
+  20,L,U,K,G
+  20,L,G
+   6,J,G
+  15
+  22,L,D
+   1,D
+   1,L,D
+   1,D
+  36,L,D
+  23,R
+   7,J,G
+   5,R,J
+   1,R,K,G
+  21,R
+  16,R,G
+  11,J,G
+  10,K,G
+  10,J,G
+   8,K,G
+   5,G
+   5,J,G
+  10,K,G
    1,R,J,G
-  17,L,K,G
+   8,R,J
+   5,R
+   1,R,J
    1,R
+   2,R,J
+   5,R
+   7,J
+  14,R,U,J,G
+   7,R,G
+   1,L
+   7,R
+  16,J
+   3,R,J
+  24,R,U,J,G
+   1,R
+   3,R,J,G
+   1,K
+  13,J
+   3,L
+  24,L,U,J,G
+   1,L
+   1,L,J,G
+  16,K
+   3,R,K
+   1,R
+  14,R,J
+   1,R,K,G
+   7,R,J,G
+   3,R,K,G
+   4,R
+  11,R,J,G
+   3,R
+   1,J
+   1,K
+  18,L,K
    2,L
    1
    1,L
-   1
+   2,D
+   1,L,J
+   1,L,K,G
+   1,L,J,G
+  11,L
+   1,L,J
    1,L
+  54,L,X
+   1,L,J
+  44,L
+   3,L,J
+   1,L,K,G
    1,L,J,G
    1,L,K,G
-   1,K
-   2
-   3,L
-   1,L,J,G
-   1
-   5,L
-   1,L,K,G
-   5,L
-   6,R
-  13,R,J
-   2,R,K,G
-   3,L,K
-   5,R,K
-   6,R,J,G
-   1,R,K,G
-   4,R,J,G
-  13,R
-   1,R,J
-  51,R,X
-   1,R,J
-  30,R
-   1,R,J,G
-   1,R,K,G
-   1,R,J,G
-  10,R,K,G
-  59,R
-ChapterTime: 2:01.329(7137)
+ 100,L,J,G
+
+
+ChapterTime: 1:57.980(6940)
 #14 dashes
