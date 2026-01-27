@@ -1,7 +1,7 @@
 # StrawberryJam2021
 # https://gamebanana.com/mods/424541
 
-RecordCount: 4712
+RecordCount: 4862
 
 console load StrawberryJam2021/3-Advanced/Maladroit
    1
@@ -52,38 +52,52 @@ console load StrawberryJam2021/3-Advanced/Maladroit
    8,R,J
   14,R,U,X
   21,R,U,J,G
-  58,L,U,J,G
-  48,R,U,J,G
-  70,J,G
-  84,R,U,K,G
-   3,R,D,G
-   3,R,U,G
+  51,L,U,J,G
+ 132,R,U,J,G
+  14,R,D,G
    1,R
-  13
-  13,R
-   1
-   2,R,G
-  77,L,J
-   1,R,K
-  19,R,D
-  23,R,G
-   1,R,U,G
-   1,R
+  16,R
+   2,R,D
+   1,R,G
    1,R,J,G
-   1,R,K,G
-   1,R,J,G
-   1,R,K,G
-   7,R
-  12,R,J
-  23,R,U,J,G
+   6,R
    3,R,G
-   3,R,D
+Repeat, 11
+   1
+   1,G
+EndRepeat
+
+   2,L
+   1,J
+   3,R,K,G
+   1,R,J,G
+Repeat, 6
    1,L,J
-   7,L,K
-   5,L
+   1,J
+EndRepeat
+   1,L,J
+  59,L,K
+   6,L,J
+   4,L
+   9
+  16,R,D,G
+   6,R,U,G
+   1,R
+   1,R,J,G
+   1,R,K,G
+   1,R,J,G
+   1,R,K,G
+   5,R
+   3,R,J
+   5,R
+  11,R,J
+  17,R,U,J,G
+  10,U,J,G
+   4,D
+  12,L,J
    5,U,X
-  20,L,U,J,G
-  22,R,U,J,G
+  20,L,G
+  22,R,J,G
   33,R,D,G
   40
 
@@ -641,5 +655,5 @@ EndRepeat
   48,L,J,G
 
 
-ChapterTime: 1:57.793(6929)
+ChapterTime: 1:57.079(6887)
 #14 dashes
