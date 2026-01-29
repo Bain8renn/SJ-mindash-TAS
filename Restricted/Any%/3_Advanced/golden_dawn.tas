@@ -1,7 +1,7 @@
 # StrawberryJam2021
 # https://gamebanana.com/mods/424541
 
-RecordCount: 4984
+RecordCount: 5203
 
 console load StrawberryJam2021/3-Advanced/Maladroit
    1
@@ -50,6 +50,7 @@ console load StrawberryJam2021/3-Advanced/Maladroit
    1,R,J,G
   12,R
    8,R,J
+# dash
   14,R,U,X
   21,R,U,J,G
   51,L,U,J,G
@@ -66,7 +67,6 @@ Repeat, 11
    1
    1,G
 EndRepeat
-
    2,L
    1,J
    3,R,K,G
@@ -95,6 +95,7 @@ EndRepeat
   10,U,J,G
    4,D
   12,L,J
+# dash
    5,U,X
   20,L,G
   22,R,J,G
@@ -127,7 +128,6 @@ EndRepeat
    1,L,J,G
    5,G
   23,L,D,G
-
    2,L,J,G
   34,L,G
    3,L,D
@@ -189,9 +189,7 @@ EndRepeat
    2,R,K,G
    8,R
    1,D
-
    1,R,J
-
    1,R,K,G
    1,R,J,G
   11,R
@@ -207,7 +205,6 @@ EndRepeat
    6,R,J
   14,R
    6,L,D
-
    1,K,G
    6,L
    2
@@ -219,6 +216,7 @@ EndRepeat
    1,R
   18,D
   26,R,D
+# dash
   16,R,X
   13
   14,R,G
@@ -277,7 +275,6 @@ EndRepeat
    1,L
    6
    1,L
-
  110,R,U,J,G
    1,L,J
   10,R,J
@@ -292,8 +289,6 @@ EndRepeat
    1,R
    2,D
    1,R
-
-
    1,R,J
    1,R,K,G
    1,R,J,G
@@ -301,7 +296,7 @@ EndRepeat
   40
 
 #lvl_A5
-#(3x)
+#(1x)
    4,R
    2,R,K
    4,R,J,G
@@ -321,6 +316,7 @@ EndRepeat
    1,R
    5,R,D
   21,L,D
+# dash
   22,L,X
    4
    1,R,J
@@ -346,75 +342,77 @@ Endrepeat
    1,J
    1,L,K,G
   14,K
-  61,R,D
-   1,R,J
-
-
-
-  14,R
+  46,R,D
+   3,L,D
+  12,R,D
    1,R,J
   14,R
    1,R,J
-   2,R
+  15,R
   40
 
 #lvl_Brys2-2-2
-#(5x)
-  12,R
-   1,R,K
-  14,R
-   1,R,K
-  13,R
-   1,R,J,G
+#(2x)
+   1,R,J
+  22,R
+   1,R,J
+   8,R
+   2,R,J
+   5,R
+   1,R,J
+   1,R
    1,R,K,G
-  11,R
-   7,D,K
-  41,R,K
-#dash
+   7,R,J,G
+  40,R
+# dash
   27,L,U,X
-   1,J
-  10,L,J
-   9,K
-  34,L
-  32,R
-  31,R,G
-   6,G
-  17,D,G
-  17,R,G
-  20,G
-  57,R,D,G
+  12,J
+   2,K
+  53,J
+   6,R,J
+  22,R
+  32,R,D,G
+  15,G
+  12,R,G
+  23,G
+  63,R,J,G
    1
-  18,D
-  47,R
-  11,J,G
+  24,D
+   8,L,D
+  47,R,D
+  14,G
+   8,J,G
+   1,R,J
    1,L,J
    1,L,K
-  70,L,U,J,G
-   2,U,J,G
-  30,R,U,K,G
+  20,L,J
+  50,R,U,J,G
    8,R,D,G
-   1,R
-  12,R,D
-  22,D
-   1,R,K,G
+   1
+   4,R,D
+  28,D
+   4,L
+   1,R,J,G
   13,R
-  46,R,J
-   1,K
-  25,R,K
-  31,L,J
-   7,U,X
-  14,U,J,G
-  20,L,U,J,G
-   1,R,J
-   7,L,J
-  17,R
-   5,R,U,X
- 124,R,U,J,G
-  70,R,D,G
+  44,R,J
+# dash
+  15,U,X
+   1,R
+  16,L,J
+  21,L,U,J,G
+   1,R
+   7,L
+   8
+   1,J
+  25,R,J
+ 123,R,U,J,G
+   2,R,G
+   2,R,U,G
+  68,R,D,G
   40
 
 #lvl_A6
-#(6x)
+#(2x)
   11,R,D,G
    1,R,J,G
   58,R,G
@@ -425,12 +423,16 @@ Endrepeat
    1,R
    1,R,J,G
    1,R,K,G
-  22,R,J,G
+   1,R,J,G
+   5,R,J
+  16,R,J,G
    6,R,G
    1,R,D
   55,R,J
-  66,R
+  63,R
+# dash
   37,R,U,Z
+# dash
   14,U,X
    4,R
   15,L,J
@@ -528,7 +530,6 @@ EndRepeat
    1,R
    1
    2,R
-
    1,R,K,G
    1,R,J,G
    9,R
@@ -537,7 +538,7 @@ EndRepeat
   40
 
 #lvl_A7
-#(5x)
+#(2x)
    8,R
    1
    4,R
@@ -561,6 +562,7 @@ EndRepeat
    1,R,D
    6,R
    2
+# dash
   25,U,X,G
    4,L,U,J,G
    5,U,J,G
@@ -646,6 +648,7 @@ EndRepeat
   11,L
    1,L,J
    1,L
+# dash
   54,L,X
    1,L,J
   44,L
@@ -656,5 +659,5 @@ EndRepeat
   48,L,J,G
 
 
-ChapterTime: 1:59.153(7009)
-#14 dashes
+ChapterTime: 1:58.354(6962)
+#11 dashes
