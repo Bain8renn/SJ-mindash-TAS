@@ -1,4 +1,4 @@
-RecordCount: 2942
+RecordCount: 3006
 
 console load StrawberryJam2021/3-Advanced/Viv
    1
@@ -56,6 +56,7 @@ EndStunPause
   39
    1,R,J
   25,R,K
+
   22,D,G
   50,U,G
   14,R,Z
@@ -232,6 +233,8 @@ EndRepeat
   12,U,X
    1,R,J
   66,R,K
+# spinner-cycle
+   1,R,K
   11,R,D,G
   13,L
    1,L,D
@@ -256,21 +259,22 @@ EndRepeat
   42,R,D,G
  107
   30,D,G
-  17,R
+   5,R
+   1,R,J
+  28,R
    1,R,J
   14,R
    1,R,J
-  14,R
-   1,R,J
-  12,R
+   6,R
   40
 
 #lvl_viv5(0)
 #3x
-   2,R
+   8,R
    1,R,J
   14,R
-  30,R,J
+  15,R,J
+   9,R
   95,R,U,Z
    1,L,J
   39,L
@@ -278,30 +282,28 @@ StunPause
   10,L
   82,R,J
    1,K
-   2,R,J,G
 EndStunPause
-  27,R,J,G
+  29,R,J,G
   37,L,D,G
    1,R,J
   17
   29,L,J
-  48,L,U,G
-  37,R,U,X
-  22,R,D,C
-   1,R,J
-  17,R
+   8,L,U,G
+   1,L,G
+  39,L,U,G
+  39,R,U,X
+  23,R,D,C
+   9,R,J
+   4,R
   40
 #lvl_viv5x
 #0x
-   2,R
-   1,R,J
-  20,R,D
-   1,D
-   1,R,D
-  16,D
-   5,L,D
-   1
-   2,L
+   1,R
+   9,R,J
+  18,R,D
+  15,D
+   1,L,D
+   5,L
    1,L,D,J
    1,L,K,G
    1,L,J,G
@@ -324,14 +326,16 @@ EndStunPause
    1,S
    1,D,J
   69,O
-   7,U,G
-  25,D,G
+  28,D,G
+   1,G
+   1,D,G
    1,G
    1
    1,G
    1
    1,G
    1
+
    2,L
    1,L,D
    1,L
@@ -342,19 +346,19 @@ EndStunPause
    1,L,D
    2,L
   10,L,D
-  61,D,G
-   9,R
-   7,U,G
-   7,D,G
+  48,D,G
+   1,R,J
+  11,D,G
+   1,G
+   2,D,G
+   1,G
+   2
    1,G
    1
    1,G
    1
-   1,G
-   1
-   2,R
-   1,R,D
-   1,R
+
+   3,R
    1,R,D
    1,R
    1,R,D
@@ -362,12 +366,18 @@ EndStunPause
    1,R,D
    2,R
   10,R,D
-  71,D,G
+  65,D,G
+   1,G
+   1,D,G
+   1,G
+   1,D,G
+   1,G
+   1,D,G
    1
    1,G
-   3
+   1
    1,G
-   2
+   1
    9,L
   10,L,D
   50,R,D,G
@@ -386,14 +396,12 @@ EndStunPause
    1,R,D
    2,R
   10,R,D
-  47,D,G
+  46,D,G
    1,L,J
   14,D,G
-  30,L
-   1
-   1,G
+  29,L
   18,D,G
-   9,R
+  10,R
    1,R,D
    1,R
    1,R,D
@@ -590,9 +598,10 @@ EndRepeat
    1,R,K,G
    1,R,J,G
  140,L
- 129,D,G
+  45,D,G
+  78
  103,R,J
-  67,R,U,G
+  66,R,U,G
    2,J,G
    1,L
   18
@@ -600,29 +609,34 @@ EndRepeat
   41,R,D,G
  200,U,G
    1,L
-  43
+  48
    1,J
+  24,L,K,G
+   2,L,J,G
    1,L,K,G
- 118,R
+  11,J,G
+  35,R,J
+   1,R,K,G
+  26,R
    1,R,J
-  21,R
+  18,R
    1,R,D,J
-  14,R
+   5,R
+   3,R,J
+   8,R
    1,R,J
-   3,R
+   2,R
   40
 
 #lvl_vivEnd
 #1x
-  10,R
-   2
-   1,R
+  12,R
    1,R,D,J
    1,R,K,G
    1,R,J,G
-  42,R
+  40,R
    1
   28,R,D,J
  139,R,X
 
-ChapterTime: 5:34.152(19656)
+ChapterTime: 5:32.945(19585)
