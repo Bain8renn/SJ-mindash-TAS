@@ -1,13 +1,13 @@
-RecordCount: 1432
+RecordCount: 1532
 
 console load StrawberryJam2021/1-Beginner/Eclipse
    1
 
-#78x
+#76x
 #Start
  190
 
-#8x
+#7x
 #lvl_a_01
    5,R
    7,R,J
@@ -36,31 +36,34 @@ console load StrawberryJam2021/1-Beginner/Eclipse
    1,R,J,G
   11,R
    1,R,J
-  14,R
-   1,R,J
-  23,R
+  15,R
+   6,R,J
+   9,R
+   1,R,K
+   7,R
    1,R,N
-  10,L,J
+   9,L,J
+   1,L
   15,U,X
-  32
-   1,R
-  12,R,J
-   2,J
-   1,R,J
-  24,U,X
-   4
-  15,R,U,C
-  15,U,X
-   6,R
-   5
-   2,R
    2
-   1,R
-   4
-  14,L,X
+   2,L
+   2
+  31,L
+  30,L,J
+  15,R,U,Z
+  14,R
+  26,R,J
+  15,U,X
+  17,R
+   1
+   1,D
+   3
+  10,L,X
   12,L,J
-  23,L
-  22,R
+  13,L
+   5,L,K
+  10,L
+  21,R
   22,R,J
   85
   40
@@ -125,48 +128,58 @@ console load StrawberryJam2021/1-Beginner/Eclipse
   21,L,K
   15,U,X
   12,L
-  25
-  46,R
-   2
-  12,R,J,G
-   1,R,K,G
-   4,L,K
-   6,R,K
-   1,R,J,G
-   4,R,K,G
-  21,R,D
-  25
-  12
-  15,L,X
-   4,L,J
-   8,L,K
-   1,L
-  18,L,J
-  25
-  14,R
-  20,U,X
-   6,R
-  21,R,X
-   4,R,J
-  10,R,K
+  41
+  31,R
+   1,D
+   1,J,G
+   1,R,J
+   5,J
+   1,R,J
+   1,J
+   1,R,J
+   1,L,J
    1,R
-  12,R,J
-  25
-  33,L
-  17,R,U,X
-   4,R,J
-  19,D
-  25
-  14,L
-  21,L,X
-   4,L,J
-  10,L,K
+  11,R,K,G
+   2,R
+   1,R,J,G
+   6,R,K,G
+   6,L
+   1,J,G
+   8,L,J
+   1,J
+   1,L,J
+   1,R,J
+   1
+  12,L,K,G
    1,L
-  19,L
-  25
-  17
+   2,J
+  11,L,X
+   8,L,J
+  22,L,K
+  15,U,X
+   1,L
+  10
+   4,R
+  19,R,U,Z
+   4,R,J
+   4,R
+  11,R,K
+   6,R
+   1,R,K
+  29,R,U,X
+   6,L,J
+  16,L,K
+  12,L,J,G
+   2,L,K,G
+   1,J
+   1,L,K,G
+  14,L,Z
+   8,L,J
+  29,L,K
   18,U,X
-  14,U,C
+   3,L
+  15,U,X
+   4,L
   25
   52,R,D
   35,R,U,Z
@@ -332,7 +345,7 @@ console load StrawberryJam2021/1-Beginner/Eclipse
  249
   40
 
-#15x
+#14x
 #lvl_b_05
   74
   13,R,J
@@ -361,21 +374,29 @@ console load StrawberryJam2021/1-Beginner/Eclipse
   25
   13,R
   21,R,X
-   4,R,J
-   7,R,K
-  21,U,X
-  25,U,C
-   3,L
-  15,L,X
+   5,R,J
+  12,R,K
+   1,R
+  18,U,X
+   7,R
+   1
+   1,R
+   1
+  18,L,U,Z
    4,L,J
-   6,L,K
-  14,L
-  20,L,Z
-   4,L,J
+   1,J
+   3,L,J
    1,L,K
-   3,K
-  15,U,X
-  17,R
+   3,L
+   3,L,K
+   2,R,K
+   6,J,G
+  53,L,J
+  15,L,U,X
+  14,L
+   4,L,J
+   5,L,K
+  33,U,Z
   21,R,U,X
    4,R,J
   16,R,K
@@ -490,4 +511,4 @@ console load StrawberryJam2021/1-Beginner/Eclipse
   15,U,C
  135,D
 
-ChapterTime: 2:00.190(7070)
+ChapterTime: 1:58.881(6993)
