@@ -1,5 +1,5 @@
 #just added this
-RecordCount: 901
+RecordCount: 3308
 
 console load StrawberryJam2021/5-Grandmaster/Dav
    1
@@ -63,27 +63,40 @@ console load StrawberryJam2021/5-Grandmaster/Dav
    1,J
   21,L,J
    7
-  96,G
-   3,J,G
-  12,K,G
-   6,L,X
-   1,J,G
-   7
-   2,R
-  22,J
-   6,R
- 324,G
-   3,R,J,G
-   2,R
-   6,L,Z
+  20,G
+   6,L,J,G
+  12,L
+   9,R,G
+  78,G
+   1,R,J,G
+   4,J
+   1,R,K,G
+  47,D,K
+   3,L,D
+   1,L
+   2,D
+   5,R,Z
    1,R,J
- 238,R,K,G
-   8,R,D
-   4,R,J
-  18,R
-   2,R,D
-  40,R
-  78,R,D
+   1,R,K,G
+   1,R
+   1,R,J,G
+   1,R,K,G
+   4,R
+   6,R,J,G
+  35,R
+   5,R,D
+   5,R
+  12,R,J
+  34,R,D
+  11,R,J
+   5,R
+   1,R,J
+   6,R
+  15,R,Z
+   1,R,J,G
+   2,R,K,G
+   1,R,J,G
+ 122,R,D
 
 #lvl_big-1
    1
@@ -241,26 +254,6 @@ EndRepeat
    3,R
    5,R
  481,R,J
-
-## could help to save the dash up top
-## (if it would work)
-#   1,K
-#  49,L
-#   1,L,D
-#  38,D
-#   1,G
-#   1,J,G
-#  10
-#   4,R
-#   1,R,D,J
-#   1,R,K
-#   1,R,J
-#   1,R,K
-#   1,R,J
-#Invoke, Player.MoveV, -0.51
-#  99,R,K
-##
-
    1,R,K,G
    1,K
    4,L,K
@@ -291,85 +284,104 @@ EndRepeat
    1,R,K,G
    4,R,J,G
   18,R
-   6,R,D
-##maybe saveable with more speed
-  14,R,D,X
-##
+  12,R,D
    1,R,J
-   8,R
-   1,R,J
-   3,R,K,G
   18,R
-   9,R,D
-   5,D
-   1,R,D
-  19,D
-  45,L,G
+   1,R,J
+   9,R
+   1,L
+   9
+   1,G
+   1,J,G
+   3
+   1,L
+   1
+   1,L
+   2
+   1,R
+   1,J
+   1
+   1,R,J
+   1,R,K,G
+   4,R,J,G
+   3,R
+   1
+   1,R
+   4,R,J
+   1,S
+  10,J,O
+   5,R,J
+  82,R,K
+   1,L
+   7
+  45,G
    1,J,G
    5
    1,J
    1,R,J
    2
    3,R,D
-   5,R,J
-   5
-  26,J
-Repeat 5
+   4,R,J
+   3,R
+   2
+  22,L,J
    1,K
+  14
+
+Repeat, 9
+   1,J
   13
 EndRepeat
-   1,K
-  17,R
-   6
+
    1,J
-   9
-Repeat 8
-   1,J
-  10
-   1,R
-   3
-EndRepeat
-   1,J
-   5
-   5,J
-   0
-   3,R
-   4
-   1,J
-   8,R
-  10,L
-   3,L,D
-   1,L,G
-   1,L,J,G
-  12,L,J,G
-  16,R,U,X
-   4,R,J
-   1,R,K
-##maybe saveable with more speed
-  10,R,D,X
-##
-   8,R,J,G
-   1,J
-   3,R,J
-   5,R
-   6,R,J
-  22,R
-  10,R,J
    9,R
-   1,R,J
-  10,R
-   1,R,J,G
+  13
+   1,R
+   1
+
+Repeat, 9
+   1,J
+  13
+EndRepeat
+
+  10,J
    5,R
-   1,R,J
+   2,J
+   9
    5,R
-   5,R,D
+   2,D
+   1,R,D
+   1,R,D
+   1
+   1,L
+   1,J
+   1,K,G
+   4,R,J,G
+  46,R,K,G
+  15,R,X
+   7,R
+   1,R,J
+  14,R
    7,R,J
-   5,R
-  13,R,J
+  29,R,D
+   1,R,J
+   1,R,K
+   1,R,J
+   1,R,K
+   1,R,J
+   1,R,K
+   1,R,J
+   1,R,K
+   8,R,J
+   4,R
+   1,R,K,G
+  16,R
+   6,R,J
+  15,R
    1,G
-   1,J,G
-  10,R
-  32
+   1,R,J,G
+   9,R
+  33
   12,L,Z
   19,L,J
   12,L
@@ -397,71 +409,43 @@ EndRepeat
    1,L
   36,J
   15,L
-
-## very close
-# 211
-#Invoke, Player.MoveV, -0.48
-#   1,L
-#   1
-#   7,R
-#   3,R,D
-#   2,R
-#   1,S,N
-#  10,J
-#   5,R,D,J
-#  22,R,K
-#  18,L,K
-#  15,U,Z
-#   9,L
-#   2
-#  15,U,Z
-#   7,R
-#  99
-##
-
- 190
-   1,R,J
-   6,R
-  21
-   1,D
-   1,L,G
-  12,U,X
-  21,R,J
-  26,L,J
-  15,U,Z
+   4
    1,L
-  20
-  15,U,Z
+#
+ 205
   11,R
-  12,L,J,G
-  12,L,K,G
-   1,L,J,G
-   6
-   2,L
-  36
-  28,R,J
-  35,R,U,X
- 250,G
-  73,G
-   1,J,G
+   5,R,D
+  24,R,J
+  18,R,X
+  15,R,C
+  16
+  81,G
+   1
    1,J
-   1,L
-   1,R
-  16,K,G
-   1,J
+   2,K,G
+  19,L,K
+  13,R,Z
+   5,J,G
+   1,L,J
    1,K
-   4,L,K
-   5,L
+  25,R,K
+ 369,G
+  10,J,G
+   1,R,J
+   1,L,J
+   1,K
    1,J
-   4,R,J
-  12,R,K,G
-   1,J
-   4,R,J
-   1,R
+   5,L,J
+   1,K
+   6,L,K
+   3,L
+   5,J
    1,R,K,G
-   8,K
-   3,R,K
-   7,R
+  11,K
+   2,J,G
+   4,L,J
+  12,R,K,G
+   8,R
    1,R,J
   14,R
    1,R,J
@@ -469,10 +453,15 @@ EndRepeat
    1,R,J
   18,R
    1,R,J
-  20,R
-  46
+  21,R
+   1,R,J
+   1,R,K
+   1,R,J
+   1,R,K
+   1,R,J
+  20,R,K
+  19
    1,J
-
 #lvl_chill-0 (0)
    1,J
    1,L
@@ -535,51 +524,10 @@ EndRepeat
    1,K
   13
  120,G
+# do a rounding error demo hyper
+# and snap the block p with the other one
    1
    1,J
-
-### -1X horizontal rounding error
-#   1,R,J
-#   5,R
-#   4,R,J
-#  17,R
-#   6
-#   2,L,G
-#   2,J,G
-#   5
-#   1,J
-#   6
-#   1,L,J
-#   5,L
-#   1,L,J
-#   9
-#Repeat 18
-#   1,G
-#   1
-#EndRepeat
-#   1,J
-#   2,R,J
-#   5,R
-#   1,R,J
-#   8,R
-#   3
-#Invoke, Player.MoveH, 0.158197
-#  13,R,Z
-#   1,R,Z
-#  24,R,J
-#   9,K,G
-#   7
-#   6,G
-#  54,U,G
-#  20,J,G
-#  12,R,J
-#   5,J
-#   1,R,K
-#  21,K
-#  99,L,G
-#  99,R,K
-###
-
   29,R
   15,U,X
   22
@@ -761,28 +709,29 @@ EndRepeat
    6,R
   14,R,Z
   20,L,G
-  37,L,J,G
-   1,K
-  13,D
-  18,R,D
-   3,R
-  12,R,Z
-   6,R,J
+   7,L,J,G
+   7,L,K,G
+   5,L
+   6,L,K
+  16,L
+  10,R,D
    2,R
-  22,R,K
-  14,R,X
-  22,L
-  15,R,U,X
+   0,R,D
+  16,R,Z
+   8,R,J
+   3,L,K
+   8,R,K
+   1,K
+   8,R,K
+   5,R
+  15,U,Z
    9,R
-  46,D
-  17,R,D
-  69,L,D
-   6,D
-   1,L,D
-   1,L,J,G
-  20,L,D
-  21,R
-  34,U,G
+  10
+  43,R
+  85,L
+   8,L,D
+  11,R,D
+ 100,G
   12,R,X
    8,R,J
   10,R,K
@@ -795,37 +744,30 @@ EndRepeat
    7
    1,D
    1
-   4,J,G
+   1,G
+  11,J,G
    1,R,J
-  18,R,K
-   3,R
-   1,R,J
-   6,R
-  55
-  10,L
-  11
-  18,L,U,Z
-   1
-  15,U,X
-  12
-   4,L
-   1,L,J,G
-  20,L,J
-  35
-   1,L
-  10,R,Z
-   1,L,J
-  66,L
-   3,R
-   1,J,G
-   8,R
-  15
-  16,G
-   3,R,J,G
-  20,R,D
-   6,L,D
-   5,L
+   1,R,K
+  70,R,J
+   8,R,D
+  10
+   1,J
+   7,L,J
+  47,L,K,G
    1,L,D
+  15,L,Z
+  11,L
+  11
+  12,R,Z
+   3,L,J
+  66,L
+  12,R
+  26,G
+   7,R,J,G
+  21,R
+  11,L,D
+   2
+   1,D
   12,L,Z
    4,L,J
    4,L
@@ -876,7 +818,6 @@ EndRepeat
    4,L,K,G
    9,L
   62,D
-
 #lvl_chill-0 (1)
    1
    4,J
@@ -966,7 +907,6 @@ EndRepeat
    1,L,J
    6,L
   62
-
 #lvl_big-3
    9,L,Z
   20,L,J
@@ -1062,19 +1002,20 @@ EndRepeat
    5,R,K
   45,K
    9,R,J,G
-  14,R
-   8,R,J
-  15,R,U,Z
-  26,D
+   9,R
    5,R,D
-   4,R
-  13,R,Z
+   9,R,J
+   5,R
+   3,R,J
+  13,R
+  16,R,Z
    4,L,J
    4,R,J
   10,L,K
    2,R,K
    7,R
-  29,G
+   7,U,G
+  22,G
   24,L,J
   36,L,G
    1,R,J
@@ -1374,5 +1315,5 @@ endrepeat
   14,L,U,X
  135
 
-ChapterTime: 4:18.468(15204)
-#66x
+ChapterTime: 4:14.507(14971)
+#60x
