@@ -1,7 +1,7 @@
 # StrawberryJam2021
 # https://gamebanana.com/mods/424541
 
-RecordCount: 3681
+RecordCount: 3778
 
 console load StrawberryJam2021/5-Grandmaster/tcookiem
    1
@@ -690,57 +690,22 @@ endrepeat
    1,R,K,G
    1,R,J,G
 #
-   1
-   4,R
-   1,R,J
-   1,J
-   4
-   3,L,D,J
-   2,J
-   1,L,J
-  15,R,U,X
-  13,R
-  32,R,J
-  18,R,U,C
-  24,R,G
-   8,J,G
-   1
-   1,J,G
-   1
-   1,J,G
-   6,R
-
-
-
-
-
-
-
-
-   1
-   4,R
-   1,R,J
-   1,J
-   4
-   3,L,D,J
-   2,J
-   1,L,J
-#dash
-  15,R,U,X
-  13,R
-  32,R,J
-#dash
-  15,R,U,C
-  24,R,G
-   8,J,G
-   1
-   1,J,G
-   1
-   1,J,G
    6,R
    1,R,J
+   3,R
+   3,R,J
+   3,R
+  23,R,U,Z
+   8,R,J
+  16,R,K
+  18,R,U,X
+  13,R
+   5,J,G
+   3
+   2,R
    2
-#dash
+   1,J
+   4
    6,L,Z
    1,R,J
    6,R
@@ -749,10 +714,11 @@ endrepeat
   13,D
    1,L,D
   23,D
-   1
-   1,L
-   1
-  24,R
+   3
+
+  10,R
+   1,R,D
+  13,R
   11,J,G
    1,L,J
    1,R,K,G
@@ -809,7 +775,6 @@ endrepeat
   19,R,Z
    8,R,J
    4,R,K,G
-
 
 #lvl_Nostalgia
 #4x
@@ -941,4 +906,4 @@ Repeat 11
 EndRepeat
    1
 
-ChapterTime: 1:39.059(5827)
+ChapterTime: 1:38.617(5801)
