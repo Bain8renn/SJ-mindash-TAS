@@ -1,7 +1,7 @@
 # StrawberryJam2021
 # https://gamebanana.com/mods/424541
 
-RecordCount: 26228
+RecordCount: 26557
 
 console load StrawberryJam2021/5-Grandmaster/ZZ-HeartSide
    1
@@ -1388,7 +1388,6 @@ EndRepeat
   14,R
    1,R,J
   40
-
 #5x
 #lvl_c1_12-RedBatNick
   14,R
@@ -2108,31 +2107,52 @@ AnalogMode Ignore
   14,R,Z
  120,D,X
 
-#8x
+#7x
 #lvl_d2_08-Aiden
  106,R
    1,R,J
   14,R
    1,R,J
-  14,R
+  18,R
+   2,L
+  12,G
+   1,L,G
+   8,G
+  10,R
    1,R,J
   14,R
+   3,R,J
+   5,R
    2,R,J
-  49,R,J,G
-   1,R,K,G
-  21,R,G
-  32,R,J,G
-  15,R,X
-  15,R
-  15,R,U,Z
-   1,R
-  14,U,X
-  22,R,G
-  18,L
-  41,D
+  10,R
+   6,L,Z
+   1,R,J
+   6,R
+  17,R,G
+   8,R,J,G
+   5,R,G
+   4,R,J,G
+   1,R,G
+   6,R,J,G
+   1,L,J
+   4
+  11,U,X
+   1,J
+  20,L,J
+  21,J,G
+  12,L
+  39
+   3,L
+  17,G
+   6
   21,R
-  69,L,D,G
-   3,L,G
+   2
+  65,L,D,G
+   1,D,G
+   1,L,D,G
+   2,D,G
+   1,G
+   1,L,G
    1,L
   10,R,Z
   22,L,J
@@ -2575,7 +2595,6 @@ EndRepeat
   10,J,G
    2,R,J
   19,L,K,G
-#
    1,L,J,G
    3,R,J
    2,J
@@ -2815,8 +2834,8 @@ endrepeat
   15,U,C
    2
  304
-#2x
-#lvl_e3_04-Linj
+#lvl_e3_04-Linj (0)
+#lvl_e3_04-Linj (1)
   75
    5,R
    1,R,J
@@ -2948,8 +2967,8 @@ endrepeat
    3,R,K,G
  346
 
-#0x
-#lvl_f0-Icarus
+#lvl_f0-Icarus (0)
+#lvl_f0-Icarus (1)
   63
    5,R
    1,R,J
@@ -2968,8 +2987,8 @@ endrepeat
    4,R
   40
 
-#5x
-#lvl_f1_03-tobyaaa
+#lvl_f1_03-tobyaaa (0)
+#lvl_f1_03-tobyaaa (1)
    4,R
    1,R,J
    6,R
@@ -3161,8 +3180,8 @@ EndRepeat
    8,R
   40
 
-#7x
-#lvl_f2_02-Soloiini
+#lvl_f2_02-Soloiini (0)
+#lvl_f2_02-Soloiini (1)
    9,R
    1,R,J
   14,R
@@ -3656,8 +3675,8 @@ EndRepeat
   13,R,G
   40
 
-#6x
-#lvl_f3_01-Hydro
+#lvl_f3_01-Hydro (0)
+#lvl_f3_01-Hydro (1)
    3
    2,R,G
    6,R,J,G
@@ -4098,9 +4117,8 @@ Read, pp_raise_2
   28
    1,S,N
    1,D,J
-  18
 #lvl_gg_Heart
-  91
+ 109
    5,R
    1,R,J
   14,R
@@ -4168,4 +4186,4 @@ Read, pp_raise_2
   15,U,X
    4
  136
-ChapterTime: 1:13:01.801(257753)
+ChapterTime: 1:13:01.869(257757)
