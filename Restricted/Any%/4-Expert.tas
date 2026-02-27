@@ -4,12 +4,10 @@
 unsafe
 console clrsav
 Set,CollabUtils2.DisplayEndScreenForAllMaps,False
+Set,GravityHelper.AllowInAllMaps,False
 
 console load StrawberryJam2021/0-Lobbies/4-Expert
    1
-
-#For Narrow Hollow:
-Set,GravityHelper.AllowInAllMaps, False
 
 #Start
 #69x
@@ -220,9 +218,9 @@ Read,4_Expert/polaris.tas,Start
 Read,../../Lobby_Movement/4_Expert_Lobby/exp_28-G.tas,Start
 Read,../../Lobby_Movement/4_Expert_Lobby/exp_G-D.tas,Start
 Read,../../Lobby_Movement/4_Expert_Lobby/exp_D-30.tas,Start
-Read,../../Enter_Level,Start
+Read,../../Enter_Heartside,Start
 Read,4_Expert/Starfruit_Supernova,Start
   61
    1,O
 
-FileTime: 1:26:59.442(307026)
+FileTime: 1:26:02.662(303686)
