@@ -1,0 +1,170 @@
+#Beginner Lobby
+#524x without agfts
+
+#Note:
+#Nx+Mx means that the lobby movement uses N amount of dashes, and the level after uses M amount of dashes. This is only used if the lobby movement uses a dash in the first place.
+
+unsafe
+console clrsav
+Set,CollabUtils2.DisplayEndScreenForAllMaps,False
+
+console load StrawberryJam2021/0-Lobbies/1-Beginner
+   1
+
+#Start
+#1x+29x
+Read,../../Lobby_Movement/1_Beginner_Lobby/beg_0-1,Start
+Read,../../Enter_Level,Start
+Read,1_Beginner/loopy_lagoon_ARB,Start
+   1,O
+  32
+
+#33x
+Read,../../Lobby_Movement/1_Beginner_Lobby/beg_1-11,Start
+Read,../../Enter_Level,Start
+Read,1_Beginner/forest_path_ARB,Start
+   1,O
+  32
+
+#20x
+Read,../../Lobby_Movement/1_Beginner_Lobby/beg_11-12,Start
+Read,../../Enter_Level,Start
+Read,1_Beginner/azure_caverns_ARB,Start
+   1,O
+  32
+
+#16x
+Read,../../Lobby_Movement/1_Beginner_Lobby/beg_12-D-10,Start
+Read,../../Enter_Level,Start
+Read,1_Beginner/if_my_driveway_ARB,Start
+   1,O
+  32
+
+#48x
+Read,../../Lobby_Movement/1_Beginner_Lobby/beg_10-9,Start
+Read,../../Enter_Level,Start
+Read,1_Beginner/treehive_ARB,Start
+   1,O
+  32
+
+#1x
+Read,../../Lobby_Movement/1_Beginner_Lobby/beg_9-8,Start
+Read,../../Enter_Level,Start
+Read,../Any%/1_Beginner/rose_garden,Start
+   1,O
+  32
+
+#40x
+Read,../../Lobby_Movement/1_Beginner_Lobby/beg_8-4,Start
+Read,../../Enter_Level,Start
+Read,1_Beginner/switchtube_vista_ARB,Start
+   1,O
+  32
+
+#1x
+Read,../../Lobby_Movement/1_Beginner_Lobby/beg_4-3,Start
+Read,../../Enter_Level,Start
+Read,1_Beginner/over_the_city_ARB,Start
+   1,O
+  32
+
+#22x
+Read,../../Lobby_Movement/1_Beginner_Lobby/beg_3-2,Start
+Read,../../Enter_Level,Start
+Read,1_Beginner/collapsing_skyline_ARB,Start
+   1,O
+  32
+
+#24x by non-ARB
+#Read,../../Lobby_Movement/1_Beginner_Lobby/beg_2-5,Start
+#Read,../../Enter_Level,Start
+#Read,1_Beginner/a_gift_from_the_stars,Start
+#    1,O
+#   32
+
+#81x
+#  ADD THE ",Start" at the end here when you finish agfts, I deleted it for syncing issues
+Read,../../Lobby_Movement/1_Beginner_Lobby/beg_5-6
+Read,../../Enter_Level,Start
+Read,1_Beginner/troposphere_ARB,Start
+   1,O
+  32
+
+#4x
+Read,../../Lobby_Movement/1_Beginner_Lobby/beg_6-7,Start
+Read,../../Enter_Level,Start
+Read,1_Beginner/potential_for_anything_ARB,Start
+   1,O
+  32
+
+#3x
+Read,../../Lobby_Movement/1_Beginner_Lobby/beg_7-13,Start
+Read,../../Enter_Level,Start
+Read,1_Beginner/the_squeeze_ARB,Start
+   1,O
+  32
+
+#6x
+Read,../../Lobby_Movement/1_Beginner_Lobby/beg_13-14,Start
+Read,../../Enter_Level,Start
+Read,1_Beginner/strawberry_orchard_ARB,Start
+   1,O
+  32
+
+#49x
+Read,../../Lobby_Movement/1_Beginner_Lobby/beg_14-15,Start
+Read,../../Enter_Level,Start
+Read,1_Beginner/paint_ARB,Start
+   1,O
+  32
+
+#8x
+Read,../../Lobby_Movement/1_Beginner_Lobby/beg_15-16,Start
+Read,../../Enter_Level,Start
+Read,1_Beginner/coresaken_city_ARB,Start
+   1,O
+  32
+
+#28x
+Read,../../Lobby_Movement/1_Beginner_Lobby/beg_16-17,Start
+Read,../../Enter_Level,Start
+Read,1_Beginner/dropzle_ARB,Start
+   1,O
+  32
+
+#31x
+Read,../../Lobby_Movement/1_Beginner_Lobby/beg_17-18,Start
+Read,../../Enter_Level,Start
+Read,1_Beginner/soap_ARB,Start
+   1,O
+  32
+
+#4x
+Read,../../Lobby_Movement/1_Beginner_Lobby/beg_18-19,Start
+Read,../../Enter_Level,Start
+Read,1_Beginner/seeing_is_believing_ARB,Start
+   1,O
+  32
+
+#6x
+Read,../../Lobby_Movement/1_Beginner_Lobby/beg_19-20,Start
+Read,../../Enter_Level,Start
+Read,1_Beginner/cassette_cliffs_ARB,Start
+   1,O
+  32
+
+#10x
+Read,../../Lobby_Movement/1_Beginner_Lobby/beg_20-21,Start
+Read,../../Enter_Level,Start
+Read,1_Beginner/midnight_spire_ARB,Start
+   1,O
+  32
+
+#83x
+Read,../../Lobby_Movement/1_Beginner_Lobby/beg_21-F-D-22,Start
+Read,../../Enter_Heartside,Start
+Read,../Any%/1_Beginner/blueberry_bay,Start
+  61
+   1,O
+
+FileTime: 0:00.000(0)
