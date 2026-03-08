@@ -1,4 +1,4 @@
-RecordCount: 5108
+RecordCount: 5351
 
 console load StrawberryJam2021/4-Expert/powerav
    1
@@ -207,8 +207,7 @@ EndRepeat
    1
    1,R
    3
-
-Repeat, 169
+Repeat,169
    1,R,J
    1,L,J
    8,L
@@ -235,44 +234,59 @@ EndRepeat
    1,L
   15,U,X
   29,L
-  19,L,J,G
-   2,R,J,G
+  18,J,G
+   3,L,J,G
    1,L
    1,L,J,G
-  11,L
+   1,L,K,G
+  13,L
    1,L,J
   14,L
    1,L,J
-  21,J,G
-   1,D
-   8,U,X
-  17,G
-   4,R,G
-   1,R,D
-   3,R
-  26,L,D
-   6,R,D
+   3,L
+  13,R
   13,R,G
-   1,R,J,G
-  14,R,G
-  13,R,J,G
-   1,D
-  11,U,X
-  14,G
-   8,L,G
+  14,R,J,G
+   6,J,G
+   1,L
+  10,D
+   4,D
+  13,G
+   4,J,G
+   4,L,J,G
+   1,L,J
+   5,U,X
+  21,L,G
    1,L
   21,L,G
+   1,L,D
+   2,L
+   1
+   1,J,G
+   1,R,J
+   2,L,K,G
+  19,R,G
+   2,G
+   1,D
+  16,G
+   2,R,G
+   4,R,J,G
+   2,R,G
+   3,G
+   7,L,J,G
+   1,L,J
+  21,L,J,G
    1,R
-   8
+   3,L
    1,N
-  19
+  25
    4
    1,R,J
   28,U,K,MR
   27,U,MRD
    1,MR
 
-Repeat, 9
+Repeat,9
    1,S
    9,O
    1,J
@@ -1025,5 +1039,5 @@ EndRepeat
   11,U,X
  135
 
-ChapterTime: 4:02.743(14279)
+ChapterTime: 4:03.474(14322)
 #69x
