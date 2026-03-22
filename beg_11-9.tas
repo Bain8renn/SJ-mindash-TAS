@@ -1,0 +1,104 @@
+# StrawberryJam2021
+# https://gamebanana.com/mods/424541
+
+RecordCount: 136
+
+console load StrawberryJam2021/0-Lobbies/1-Beginner 672 368
+   1
+
+#Start
+  36
+
+#lvl_sj2021beginnerlobby
+   5,R
+   1,R,J
+  14,R
+   1,R,J
+  14,R
+   1,R,J
+  21,R
+   3,R,J
+   9,R
+   1,R,J
+   7,R
+   1,R,J
+  12,R
+  23,R
+  12,J,G
+   9,R,K,G
+  20,R
+   2,R,J
+   6,R
+   3,R,J
+   6,R
+   1,R,J,G
+   1,R,K,G
+  10,R
+   5,R,J
+   1,J
+   2,R
+   1,R,K,G
+   6,R,J,G
+   2,R
+   6,R,K,G
+   1,R
+   1,R,J,G
+   3
+   4,R
+   3,J
+  12,R,J
+   1,R,K,G
+   1,R,J,G
+   9,R
+   1,R,J
+  14,R
+   1,R,J
+  16,R
+   1
+   1,R
+   1
+   1,R
+   7,R,J
+   1,R,K,G
+   1,R,J,G
+   4,R
+   1
+   8,R
+   3,R,J
+   5,R,K,G
+   1,R,J,G
+  22,R,D
+   1,R,J
+  27,R,D
+
+Repeat, 4
+   1,R,J
+   1,R,K
+EndRepeat
+
+   7,R,J
+   4,R,K,G
+  53,R,D
+   1,R,J
+  24,R
+   1,R,J
+  14,R
+   1,R,J
+  12,R
+  32,R
+   4,L,J
+  13,L,K
+  15,L,U,X
+   1,L
+  46,R,D
+   2,R,J
+  12,R
+   2
+   1,R
+   2,R,J
+   1,R,K,G
+   8,R,J,G
+   5,R
+   1,N
+
+MidwayChapterTime: 0:10.625(625)
