@@ -1,0 +1,24 @@
+# StrawberryJam2021
+# https://gamebanana.com/mods/424541
+
+RecordCount: 58
+
+console load StrawberryJam2021/0-Lobbies/1-Beginner 1856 1000
+   1
+
+#Start
+  36
+
+#lvl_sj2021beginnerlobby
+   4,L
+  14,L,J
+   1,K,G
+   4,R,K
+ 176,D
+   3
+   7,R
+  20,R,D
+   5,R
+   1,N
+
+MidwayChapterTime: 0:03.995(235)
