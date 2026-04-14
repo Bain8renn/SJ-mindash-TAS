@@ -1,5 +1,6 @@
+#
 #Beginner Lobby
-#524x without agfts
+#567x
 
 #Note:
 #Nx+Mx means that the lobby movement uses N amount of dashes, and the level after uses M amount of dashes. This is only used if the lobby movement uses a dash in the first place.
@@ -75,16 +76,15 @@ Read,1_Beginner/collapsing_skyline_ARB,Start
    1,O
   32
 
-#24x by non-ARB
-#Read,../../Lobby_Movement/1_Beginner_Lobby/beg_2-5,Start
-#Read,../../Enter_Level,Start
-#Read,1_Beginner/a_gift_from_the_stars,Start
-#    1,O
-#   32
+#43x
+Read,../../Lobby_Movement/1_Beginner_Lobby/beg_2-5,Start
+Read,../../Enter_Level,Start
+Read,1_Beginner/a_gift_from_the_stars,Start
+   1,O
+  32
 
 #81x
-#  ADD THE ",Start" at the end here when you finish agfts, I deleted it for syncing issues
-Read,../../Lobby_Movement/1_Beginner_Lobby/beg_5-6
+Read,../../Lobby_Movement/1_Beginner_Lobby/beg_5-6,Start
 Read,../../Enter_Level,Start
 Read,1_Beginner/troposphere_ARB,Start
    1,O
