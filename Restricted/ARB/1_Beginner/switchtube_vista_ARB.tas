@@ -109,7 +109,6 @@ console load StrawberryJam2021/1-Beginner/Flagpole1up
   40
 #lvl_a03 (0)
 #1x
-#
    8,R
    1
    1,R
@@ -125,6 +124,7 @@ console load StrawberryJam2021/1-Beginner/Flagpole1up
   40
 
 #lvl_a03_s
+# 1x
   48,R
    2,R,J
    8,R
@@ -146,7 +146,9 @@ console load StrawberryJam2021/1-Beginner/Flagpole1up
   12,L,D
   29,D
   40
+
 #lvl_a03 (1)
+# 1x
   21,R,D
    6
    2,R
@@ -269,7 +271,7 @@ console load StrawberryJam2021/1-Beginner/Flagpole1up
   40
 
 #lvl_a06 (0)
-#2x
+#1x
    1,L
    1,J
   14,L,K,G
@@ -309,7 +311,6 @@ console load StrawberryJam2021/1-Beginner/Flagpole1up
    3,L
    1,X,G
   44
-#
    1,L,J
    2,L,K
   15,L
@@ -322,6 +323,9 @@ console load StrawberryJam2021/1-Beginner/Flagpole1up
    1,L,J
    1,L
   40
+
+#lvl_a06_s
+# 0x
    3,L
    1,L,J
    4,L
@@ -383,6 +387,7 @@ console load StrawberryJam2021/1-Beginner/Flagpole1up
   40
 
 #lvl_a06 (1)
+# 1x
    3,R
    1,R,J
    4,R
@@ -567,9 +572,9 @@ console load StrawberryJam2021/1-Beginner/Flagpole1up
    1,R,J
    7,R
   40
+
 #lvl_a09_b_s
-#1x
-#
+#2x
    1,R
    2
    4,R
@@ -687,9 +692,9 @@ console load StrawberryJam2021/1-Beginner/Flagpole1up
   12,R
    1,N
  155
+
 #lvl_a09 (1)
 #0x
-#
    5,R
   24,R,J
    1,X,G
@@ -705,6 +710,7 @@ console load StrawberryJam2021/1-Beginner/Flagpole1up
   40
 
 #lvl_a09_s
+# 0x
    4,L,J,G
    9,L
    6,L,D,J
@@ -715,12 +721,10 @@ console load StrawberryJam2021/1-Beginner/Flagpole1up
    7,R,K
    1,K
    1,L,J,G
-
 Repeat, 9
    1,R,J
    1,J
 EndRepeat
-
    1,R,J
    1,K
   23,L,K
@@ -741,7 +745,9 @@ EndRepeat
   16,L
   62,D
   40
+
 #lvl_a09 (2)
+# 1x
   15,L,D
    1,X,G
   32
@@ -749,28 +755,6 @@ EndRepeat
    1,L,K
   21,L
   12,D,X
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
   33,R
    1,R,K
   14,R
@@ -887,8 +871,9 @@ EndRepeat
   15,K,G
    4,R,J,G
   40
-#lvl_a12
-#3x
+
+#lvl_a12 (0)
+#2x
    1,R,K,G
   10,R
    1,R,K
@@ -920,7 +905,8 @@ EndRepeat
    8,R
   40
 
-#lvl_a12_s (0)
+#lvl_a12_s
+# 0x
    5,R
    1,R,J
   32,R,D
@@ -949,12 +935,10 @@ EndRepeat
    1,K
    1,L,K
    2,R,J,G
-
 Repeat, 5
    1,L,J
    1,J
 EndRepeat
-
   10,K
   11,L,K
    1,L,J,G
@@ -977,7 +961,8 @@ EndRepeat
    1,L,J
   40
 
-#lvl_a12_s (1)
+#lvl_a12 (1)
+# 2x
    3,L,J
   42,L
    1,X,G
@@ -1235,6 +1220,7 @@ EndRepeat
 #dash
   13,R,U,X
  135,R,D
+
 
 ChapterTime: 3:39.028(12884)
 #40 dash
