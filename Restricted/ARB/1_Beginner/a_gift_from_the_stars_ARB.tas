@@ -1,127 +1,22 @@
-#
-# StrawberryJam2021, a gift from the stars mindash arb, 43x (+19x)
-
-RecordCount: 2190
+RecordCount: 2555
 
 console load StrawberryJam2021/1-Beginner/HankyMueller
    1
 
+#41x
 #Start
-#0x
-  69
-   5,L
-repeat 4
-   1,L,J
-  14,L
-endrepeat
-   1,L,J
-  18,L
-   1,L,J
-  14,L
-   1,L,J
-  18,L
-   1,L,J
-  14,L
-   1,L,J
-  23,L
-   1
-   1,L
-   1
-   1,L
-   1
-   1,L
-   1,L,J
-   1,L,K,G
-   1,L,J,G
-  11,L
-   1,L,J
-   3,L
-   1,L,J,G
-  13,L
-   1,L,J
-   8,L
-  40
-
-#lvl_Intro B (0)
-#4x
-   6,L
-   1,L,J
-  14,L
-   1,L,J
-  14,L
-   1,L,J
-  14,L
-  15,L,J
-#dash
-  15,L,U,X
-   9,L
-  12,L,J
-   2,K,G
-   4,L,K
-   1,R,K
-   2,R
-#dash
-  15,R,U,X
-  10,G
-
-   2
-   1,G
-   1,R,J,G
-  43,R,D
-   5,R
-   1
-   1,L,J
-  17,L
-   1,L,J
-  14,L
-   1
-   1,D
-   2,L
-   1,L,J
-   1,L,K,G
-   1,L,J,G
-   5,L
-   4,L,J
-  31,L
-   1,K,G
-   1,R
-   1,L,J,G
-   3,L,K,G
-   2,L
-   1,L,J,G
-   1,L,K,G
-   9,L
-   1,L,J
-  14,L
-   1,L,J
-  14,L
-  19,L,J
-   2,L
-   1,L,J
-#dash
-  14,L,U,X
-   9,L,J,G
-   4,L
-#dash
-  15,U,X
-   2,L,J,G
-   1,L,K,G
-   1,L,J,G
-   9,L
-   1,L,J
-  12,L
-  40
+Read,../../Any%/1_Beginner/a_gift_from_the_stars,Start,lvl_Double Vision
 
 #lvl_Double Vision (0)
-# 1x
+#1x
    1,R
 # b1
    4,R,Z
    1,R,J
   40
 
-#lvl_Intro B (1)
-# 1x
+#lvl_Intro B
+#1x
    7,R
   42,R,J
   15,R,U,X
@@ -134,7 +29,7 @@ Repeat, 4
    1
 EndRepeat
    1,D
-   1,S
+   1,S,N
    1,D,J
   69,O
    5,L
@@ -150,7 +45,6 @@ EndRepeat
    1,L,J
   21,L
   11
-#dash
   15,L,U,X
   19,L,D
   13,R,D
@@ -163,13 +57,10 @@ EndRepeat
 # b1 end
   38,L
   10
-#dash
   15,U,X
-#dash
   15,L,U,C
   23,L,D
    9,L
-#dash
    9,R,D,X
    1,L,J
    1,J
@@ -177,7 +68,6 @@ EndRepeat
    1,L
    1,L
   19,L,D
-#dash
   15,L,Z
   13,L,D
    1,L,J,G
@@ -186,7 +76,7 @@ EndRepeat
   12,L
    1,L,J
    7,L,K,G
-   1,S
+   1,S,N
    1,D,J
   34
    1,L,J
@@ -263,7 +153,7 @@ EndRepeat
   40
 
 #lvl_Timestop Intro (0)
-# 2x
+#2x
    9,L,D
    1,L,J
   33,L,D
@@ -300,7 +190,7 @@ EndRepeat
   40
 
 #lvl_Shuffle
-# 3x
+#3x
    1,L
    1,R
    1,J
@@ -372,134 +262,122 @@ EndRepeat
   40
 
 #lvl_Feedback Loop
-# 3x
-   2,J,G
+#1x
+   3,J,G
    1,R,J
-   1,K,G
+   1
    1,R
-   2
-   1,J
-   1,K,G
-   1,L,K
+   1,K
+   1,J,G
+   1,L
+   1,L,K,G
    1,L,J,G
-  20,L,K,G
-   1,L,J
-   1,L,K
-   4,L
-   1,L,J
-  20,L,K
-  25,R
-  17
-  54,D
-  17,L,D
-  11,L,U,Z
-  31,L
+   1,L
+   1
+   7,L
+   2,L,J
+   9,L
+   2,L,K
+   5,L
+   5
+   1,G
+   5,L,J,G
+   8,L
+   2,K
+   7
+  20,L
+   9
+   1,R,G
+   1,J,G
+  18,L
+  21,R
+   1
+   1,R
+   1
+   1,J
+  11,R,J
+   5,R
+  10,R,K
+  14,R,D,X
+  22,L
+   1
+   8,L
    1,L,J,G
    2,L,K,G
-  41,L,D
-  17,L
-   6,L,D,J
-   1,R,K,G
+  29,L
+  15,L,D
+   1,L,J
+   4,L
    1,L,K
+   5,L
+   5,L,D,J
+   1,R,J
+  11,K,G
+   1,L,K
+   1,R,J,G
+   1,L,J
+   1,R,J
+   8,J
+   1,K,G
    1,R,K
-   9,K
-   5,J,G
-   1,L,J
-   5,R,J
-   1,R,K,G
-   1,L,K
-   2,R,K
-   1,J,G
-   1,L,J
-   1,R,K,G
-  10,R,K
    1,K
-   5,R,K
-   7,J,G
-   1,L,J
-   1,K
-   4,L,K
-  47,L,J
-   4,L,D
-  15,L,Z
-  17,L,U,X
-   6,L,J,G
-  23,L
-   1,J,G
-   1,K
-   2,J,G
-  14,R,J
-   1,R,K,G
-   2,R,J,G
+   1,R,K
+   2,L,K
+   1,R,J,G
+   8,J
+   3,R,J
+   4,R
+   6,J,G
+   1,L
+   5,K
+   1
    1,J
-   2,R,J
-   7,R
-   1,R,J
+   5,L,J
    1,J
-   7,R
-   1,R,J
-   1,R,K,G
-   1,R,J,G
-   1,R
-   2
-   8,R
-   1,R,J
-  12,R
-   1,R,J,G
-   1,R,K,G
-  12,R
-   1,R,J
-  21,R,D
-   1,R,J
-  14,R
-   1,R,J
-  14,R
-   1,R,J
-   2
-  14,R
-   1
-   1,R
-   1,R,J
-   1,R,K,G
-   3,R,J,G
-  12,R
-   1
-   2,R
-   1
-   1,R,D,J
-   1,R,K,G
-   2,R,K,G
-   3,R
-   1,R,J,G
-   2,R
-   2
-   6,R
-   1,R,J
-   1,R,K,G
-   9,R
-   1,R,J
-  14,R,D
-   1,R,J
-  21,R,D
-   2,R,J
-  39,R,D
    1,L,J
-  12,L,D
-  31,R,D
+   9,L
+   8
+  19,R
+  15,R,D
+   4,R
+   1,R,J
+   4,R
+   1,R,K
+   5,R
    6,R,D,J
+  12,L,K,G
+   1,J
+  12,K
+   3,J,G
+   1
+  20,R
+  16
+   8,D
+   2,L,D
+  26,D
+   1,S,N
+   1,D,J
+  69,O
+   1,R,J
+  14,R
+   2,R,J
+   1,R,K,G
+  21,R,J,G
+   1,R,D,K
+   1,K
+   1,R,J,G
+  10,R,K,G
   40
 
 #lvl_Double Vision (2)
-# 6x
-   3,R,J
-   2,L,J
-   1,K,G
-   1,R,K
-   3,L,K
-   1,L,J,G
-   3,L,K,G
-   1,J
+#6x
    2,R,K
+   1,L,J,G
+   4,R,J
+   1,K
+   3,L,J,G
+   2,R,J
+   1,K
    8,R,Z
    1,R,J
    7,R
@@ -549,7 +427,7 @@ EndRepeat
   40
 
 #lvl_Waiting Room (1)
-# 0x
+#0x
    3,R,D
   17,R
   12,R,D
@@ -564,284 +442,7 @@ EndRepeat
 # b2-3-4 end
 
 #lvl_Timestop Intro (1)
-#0x
-   1,S
-   1,D,J
-  69,O
-   5,R
-   1,R,J
-  40
-
-#lvl_Timestop Intro Again
-#8x
-  15,R
-   3
-#dash
-   4,R,Z
-   1,R,J
-  15,R,G
-   6,U,G
-   1,D,G
-  62
-  13,L
-   1,L,J
-   1,L
-   6,L,J
-  19,L
-   1,D
-   1
-#dash
-  14,L,D,X
-   1,R,J
-   8
-   8,R
-   1
-  15,R
-   1
-   2,R
-   1,R,D
-   1,R,D,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   4,R,J
-   7,R
-   3,R,J
-  16,L
-   4,J,G
-   1
-  27,R
-   1
-   9,R
-#dash
-   9,L,D,X
-   1,R,J
-  29,R
-#dash
-  14,R,U,X
-   1,L,J,G
-   1,R,J
-   2,R
-   1
-   2,R
-   2,R,J
-  14,R,D
-   7,L,D
-   5,J,G
-   1,R,J
-#dash
-   5,L,Z
-   1,L,J,G
-   1,J
-   5,L,J
-   5,L
-   4,L,J
-   1,J
-   4,L,J
-  34,L
-#dash
-  15,L,X
-  25,L,D
-#dash
-  25,L,D,X
-   2,L,J
-   3,L
-   3,L,K,G
-   1,L,J,G
-   7,L
-   1,L,J
-   4,L
-   1,L,J
-   4,L
-   1,K,G
-   2,L
-   1
-   1,L
-   1
-  10,R
-   1,R,J
-   5,R
-   1,R,J
-  12,R
-   1,R,J
-  14,R
-   1,R,J
-   9,R
-   2,R,J
-  10,R
-  10,R,J
-   1,J
-   1,R,K,G
-   1,R,J,G
-   5,R
-   1,R,J
-  17,R
-   1,R,J
-  14,R
-   4,R,J
-  25,R,D
-  11,L,D
-#dash
-   7,L,D,X
-   1,L,J
-   7,L
-   5,L,D
-  12,L,J
-   5,L
-   2,L,J
-   2,L
-   4,L,J
-  15,L
-   1,L,D,K
-   1,L,K
-   1,L,J,G
-   1,L
-   1
-   3,L
-   1,L,J
-   4,J
-   7
-   5,R
-   2,R,D
-   1,R
-  40
-
-#lvl_Stepping Stone
-#2x
-  14,R,D
-  14,L,D
-   9,L,J
-   2,L
-   3
-   3,J
-   1,K
-   4,R,K
-   1,L,K,G
-   2,R,K
-   2,L,K
-   8,L,J,G
-#dash
-   5,L,Z
-  66,R,J
-   1,K,G
-   1,L,K
-   1,R,J,G
-   3,R,K,G
-   1,K
-   3,R,K
-   1,R,J,G
-   1,R,K,G
-   2,R
-   1
-  14,R
-   7,R,J
-   1,R,K,G
-   5,R,J,G
-   7,R
-   2,R,J
-  14,R,D
-   2,L,D
-   2,D
-   1,L,D
-   7,D
-  21,L,D
-#dash
-  13,L,D,X
-   1,L,J
-   7,L
-   5,L,D,J
-   6,L
-  10,L,K,G
-   1,R,K
-   5,R
-   1,R,J
-  17,R,D
-   1,L
-   5,R,D
-   1,R,J
-  14,R
-   1,R,J
-  17,R
-   5,R,J
-   5,R
-   3,R,J
-   2,R
-   1,R,J,G
-   1,R,K,G
-   9,R
-   1,R,J
-  21,R
-   1,R,J
-  14,R
-   1,R,J
-  14,R
-   1,R,J
-  14,R
-   2,R,J
-   3,R
-  12,R,K,G
-   5,R,J,G
-   5,R
-   4,R,J
-   8,R
-   1,R,J,G
-   1,R,K,G
-  11,R
-   1,R,J
-  14,R
-   3,R,J
-   9,R
-   1,R,J
-  14,R,D
-  22,D
-  40
-
-#lvl_Fork
-#2x
-   1,L,D
-   1,D
-   1,L,D
-   2,D
-  42,L,D
-   1,L,J
-  14,L
-   2,L,J
-   7,L
-  16,R
-  12,J,G
-   3,K,G
-   1,J
-   5,K,G
-   4
-   1,L
-   1,L,J
-  26,L,D
-   9,L,Z
-   1,L,J
-  24,L,D
-   2,L
-  14,L,Z
-   1,L,J,G
-  17,L
-   1,L,J
-  22,L
-   1,L,J
-  14,L
-  15
-   6,L
-   8,L,J
-   1,L,K,G
-   1,L,J,G
-   4,L
-   1,L,K
-   1,L,J
-   1,L,K
-  19,L,D
-   1,L,J
-  13,L
-  40
+Read,../../Any%/1_Beginner/a_gift_from_the_stars,lvl_Timestop Intro,lvl_Seeded Berry
 
 #lvl_Seeded Berry
 #2x
@@ -878,7 +479,7 @@ EndRepeat
    4,R,D
    1,R,J
    8,R
-   1,S
+   1,S,N
    1,D,J
   34
    6,R,D
@@ -944,7 +545,6 @@ EndRepeat
    5,R
    3,R,J
    1,R,D
-#dash
   27,R,D,X
    3,R,J
    1,R,K,G
@@ -971,7 +571,6 @@ EndRepeat
    7,L,K
    1,L,J,G
    6,L
-#dash
    9,L,X
    9,L,J
   15,L,D
@@ -997,43 +596,6 @@ EndRepeat
   40
 
 #lvl_End
-#0x
-   1,S
-   1,D,J
-  72,O
-   5,R
-   1,R,J
-  16,R,D
-  19,L,D
-   1,L,J
-  21,L
-   1,L,J
-  14,L
-   1,L,J
-  18,L
-   1,L,J
-  14,L
-   1,L,J
-  18,L
-   1,L,J
-  14,L
-   1,L,J
-  14,L
-   1,L,J
-  18,L
-repeat 4
-   1,L,J
-  14,L
-endrepeat
-  11,L
-   1,X
- 158
+Read,../../Any%/1_Beginner/a_gift_from_the_stars,lvl_End
 
-#lvl_End Cabin
-#1x
-  10,R,X
- 135
-
-ChapterTime: 2:15.830(7990)
-# 7990
-# 43 Dashes (+19x)
+ChapterTime: 2:13.858(7874)
