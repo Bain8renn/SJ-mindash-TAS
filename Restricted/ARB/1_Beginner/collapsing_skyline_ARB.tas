@@ -1,11 +1,9 @@
-# StrawberryJam2021 Collapsing Skylines ARB, 22x
-# https://gamebanana.com/mods/424541
-
-RecordCount: 2882
+RecordCount: 2890
 
 console load StrawberryJam2021/1-Beginner/hyperlife
    1
 
+#22x
 #Start
  190
 
@@ -97,15 +95,22 @@ console load StrawberryJam2021/1-Beginner/hyperlife
   40
 
 #lvl_a-02 (0)
-# 3x
+#3x
   15,R,X
-  91
-# could save 2f with a horizontal pos rounding error
-   9,L
-   2,D
-   8,L,Z
+  46
+  11,L
+   1,G
+   1
+   3,R
+   2,L,J,G
+   3
+   1,L
+   1
+   1,L
+  28
+   7,L,Z
    1,R,J
-  60,D
+  61
   45,R
    1,R,D,J
    1,R,K
@@ -117,7 +122,7 @@ console load StrawberryJam2021/1-Beginner/hyperlife
   40
 
 #lvl_a-02-b
-# 1x
+#1x
   31,D
   13,R,D
    1,D
@@ -155,15 +160,14 @@ console load StrawberryJam2021/1-Beginner/hyperlife
   40
 
 #lvl_a-02 (1)
-# 4x
+#3x
    1,J,G
   16
-   1,S
+   1,S,N
    1,D,J
   72,O
    4,R,J
 # b1 end
-#dash
   15,R,Z
    8,R,D,J
   13,R
@@ -173,7 +177,6 @@ Repeat,12
 EndRepeat
    2
    2,L,J
-#dash
    8,L,Z
    1,R,J
   14,R
@@ -187,7 +190,6 @@ Repeat,9
 EndRepeat
    3,J
    6,L,J
-#dash
    5,L,X
 # b2(0)
    1,J,G
@@ -203,12 +205,12 @@ EndRepeat
   43
 
 #lvl_a-04 (0)
-# 0x
+#0x
    6,L
   40
 
 #lvl_a-02 (2)
-# 1x
+#2x
    2,L
    3,L,J
   10,L,D
@@ -222,11 +224,9 @@ EndRepeat
   17,R,D
 # b2(0) end
    2,R,J
-#dash
    9,R,D,X
    1,R,J
   43
-
 
 #lvl_a-04 (1)
 #2x
@@ -256,7 +256,6 @@ EndRepeat
   14,L
    8,L,J
   11,L
-#dash
    8,L,X
    1,L,J
   15,R,J
@@ -296,13 +295,12 @@ EndRepeat
    1,R,J,G
    1,R,K,G
    8,R,J,G
-# dash
   15,U,X
   12,L,K,G
   40
 
 #lvl_a-05b
-# 0x
+#0x
    5
   12,J
    2
@@ -362,7 +360,7 @@ EndRepeat
   40
 
 #lvl_a-04 (2)
-# 0x
+#0x
   19,R,D
 # b2(1) end
    1,R,J
@@ -370,7 +368,6 @@ EndRepeat
    1,R,J
    4,R
   40
-
 
 #lvl_a-03
 #2x
@@ -456,13 +453,11 @@ EndRepeat
    4,R
   10,R,J
    3,R
-#dash
   27,R,Z
    1,R,J
    5,R
    1,R,J
   12,R
-# dash
    4,R,Z
    2,R,J
    1,R
@@ -493,12 +488,9 @@ EndRepeat
    6,R
   40
 
-
 #lvl_a-05
-#2x
+#3x
    8,R
-
-
 # b1(2)
    1,R,J
   26,R
@@ -544,7 +536,7 @@ EndRepeat
   40
 
 #lvl_a-06
-# 5x
+#5x
 # b1(3-4-5)-b2
   14,R
    4,R,Z
@@ -637,7 +629,7 @@ EndRepeat
   40
 
 #lvl_a-07 (0)
-# 0x
+#0x
    1,R
    4,R,J
    1,R
@@ -653,7 +645,7 @@ EndRepeat
    1,R,J,G
    1,R,K,G
   16,R,D
-   1,S
+   1,S,N
    1,D,J
   34
   15,R,D
@@ -677,7 +669,7 @@ EndRepeat
   40
 
 #lvl_a-08
-# 0x
+#0x
    2,R,J
    3,R
    4,R,D
@@ -711,7 +703,7 @@ EndRepeat
   40
 
 #lvl_a-07 (1)
-# 1x
+#1x
    1,L,D
    3,L
    3
@@ -726,6 +718,4 @@ EndRepeat
   14,U,X
  135
 
-ChapterTime: 1:15.378(4434)
-# 4434
-# 22 dashes
+ChapterTime: 1:15.310(4430)
