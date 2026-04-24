@@ -3,8 +3,6 @@ console load StrawberryJam2021/0-Lobbies/1-Beginner 3280 1456
 
 #Start
   36
-
-#lvl_sj2021beginnerlobby
    5,R
    1,R,J
   14,R
@@ -51,7 +49,6 @@ console load StrawberryJam2021/0-Lobbies/1-Beginner 3280 1456
    5,L,J,G
   10,L
    1,L,J
-  16,L
+  29,L
    1,N
-
-#0:04.726(278)
+#0:04.947(291)
