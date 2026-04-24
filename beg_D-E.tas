@@ -1,0 +1,13 @@
+console load StrawberryJam2021/0-Lobbies/1-Beginner 1280 816
+   1
+
+  36
+   1,N
+
+#Start
+ 125
+#assumes bench F hasn't been unlocked
+   1,D,J
+  35
+#159 -1f bench interaction +36f respawn animation
+#0:03.298(194)
