@@ -1,74 +1,11 @@
-# StrawberryJam2021
-# https://gamebanana.com/mods/424541
-
-RecordCount: 3254
+RecordCount: 3316
 
 console load StrawberryJam2021/1-Beginner/Bing_Over_Google
    1
 
+#16x
 #Start
-#0x
-   5,L
-   2
-   3,L
-   1
-   1,L
-   1
-   1,L
-   1,L,J
-   1,L,K,G
-   1,L,J,G
-   5,L
-   1,L,J
-   8,L
-   1,L,J
-   1,L,K,G
-   4,L
-   1,L,J,G
-  12,L
-   1,L,J
-  15,L
-   4,L,J
-   5,L
-   2,L,J
-  17,L
-   1,L,J
-  14,L
-   1,L,J
-   3,L
-
-
-#lvl_01- Crusher
-#1x
-  40
-  11,L
-   1,L,J
-  14,L
-   1,L,J
-   4,L
-   1,L
-   9
-   1,L,J
-   5
-   1,J
-   4,L
-   2
-   5,L,G
-   1,L,J,G
-   1,L,K,G
-  32,L,J,G
-   6,L
-#dash
-  15,L,Z
-  23,L
-   3,R
-   1,L,J
-   1,L
-   2,L,K,G
-  11,L
-   1,L,J
-  12,L
-  40
+Read,../../Any%/1_Beginner/if_my_driveway,Start,lvl_02- Bait N' Switch
 
 #lvl_02- Bait N' Switch (0)
 #0x
@@ -101,7 +38,7 @@ console load StrawberryJam2021/1-Beginner/Bing_Over_Google
   40
 
 #lvl_02B- a stwawbewwy??
-# 0x
+#0x
    2,L,J
    5,L
    1,L,J
@@ -134,11 +71,11 @@ console load StrawberryJam2021/1-Beginner/Bing_Over_Google
    1,R,J
    6,L,J
    1,L,K,G
-   8,R,K
-  48,R
-   1
-  28,R
-   6,R,D
+   3,R,K
+  27,R
+  32,R,D
+   1,R,J
+  24,R
   10,R,J
    1,R,K,G
    1,R,J,G
@@ -155,7 +92,7 @@ console load StrawberryJam2021/1-Beginner/Bing_Over_Google
   40
 
 #lvl_02- Bait N' Switch (1)
-# 0x
+#0x
    3,R,D
    2,R,D,J
    5,R
@@ -166,6 +103,7 @@ console load StrawberryJam2021/1-Beginner/Bing_Over_Google
    1,J
   11
    3,L
+# b1 end
    7,L,D,G
    1,L,J,G
    1,L,K,G
@@ -176,38 +114,11 @@ console load StrawberryJam2021/1-Beginner/Bing_Over_Google
    4,R,K,G
    3,L,K
    5,L
-  22,L,J
+  21,L,J
+  40
 
 #lvl_03- Uberjump
-#2x
-  40
-   3,L
-   1
-  15,L,U,X
-  20,L,D
-  14,D
-   2
-   1,L,D
-   1,L
-   1,G
-   3,L,G
-   1,L,J,G
-   1,L,K,G
-   2,L,J,G
-   1,K,G
-   4,K
-   2,L,K
-  23,L
-#dash
-  15,L,Z
-  29,L,D
-   1,L,J
-  14,L
-   7,L,J
-   5,L
-   3,L,J
-   5,L
-  40
+Read,../../Any%/1_Beginner/if_my_driveway,lvl_03- Uberjump,lvl_04- Head Trauma
 
 #lvl_04- Head Trauma
 #0x
@@ -252,15 +163,9 @@ console load StrawberryJam2021/1-Beginner/Bing_Over_Google
    2,R,J,G
    3,R,K,G
    2,R,J,G
-  46,R
-   1,R,J
-  14,R,D
-Repeat, 10
-   1
-   1,D
-EndRepeat
-   1,L
-   1,S
+  56,R
+  26,D
+   1,S,N
    1,D,J
   69,O
    1,L
@@ -292,100 +197,13 @@ EndRepeat
   12,L,J
    9,L
   26,R
+  40
 
 #lvl_05- Boing
-#1x
-  40
-  17,R
-   1,L
-   1,R,J
-  10,R
-   7,L,G
-   3,L
-   1,L,G
-   8,L,G
-   1,L,J,G
-   1,K,G
-   1,L,J,G
-   4,L,J
-  22,R,J
-  11,R
-   4,L
-   2,L,J
-   1,L
-  18,L,J
-   8,L
-#dash
-  15,L,Z
-  22,R,G
-  15,D
-  14,G
-   1,D,G
-   1,G
-   1,D,G
-   1,G
-   1,D,G
-   1,G
-   1,J,G
-   1,K,G
-   1,R,J,G
-   6,L,J
-   9,L
-   1,L,J
-   4,L
-   4,R
-   1,L,J,G
-  11,L
-   1,L,J
-  14,L
-   9,L,J
-   1,L,K,G
-   2,L,J,G
-   9,L
-
-#lvl_06- Bubbles
-#3x
-  40
-   2,L
-   1,L,J
-  14,L
-   1,L,J
-  19,L
-   1,R
-   2,R,J
-   2,J
-   7
-  10,L,D
-   9,L,D,G
-   1,L,J,G
-   1,L,K,G
-   1,L
-   1,L,J,G
-  10,L,K,G
-   2,L
-#dash
-  15,L,U,X
-  29,L,D
-  59,L,J
-#dash
-  15,L,Z
-   5,L
-  19
-  10,J
-  15,L,U,X
-  43,L
-   3,L,D
-   1,L
-#dash
-  14,L,Z
-   1,L,J
-   6,L
-   6,L,J
-
+Read,../../Any%/1_Beginner/if_my_driveway,lvl_05- Boing,lvl_07- Falling Cannon
 
 #lvl_07- Falling Cannon (0)
 #4x
-  40
    2,L,J
   16,L
   14,R,D,X
@@ -398,10 +216,8 @@ EndRepeat
    4,R
    4,R,J,G
   44,L,D
-#dash
   12,L,Z
   15,U,X
-#dash
   15,L,C
   23,L
    5,L,D
@@ -409,7 +225,6 @@ EndRepeat
    9,L
   35,L,J
   21,L,D
-#dash
   19,L,X
   15,L,U,C
   22,R
@@ -476,7 +291,7 @@ EndRepeat
   40
 
 #lvl_07- Falling Cannon (1)
-# 0x
+#0x
    1,D
   24,L,D
    7,L
@@ -525,7 +340,6 @@ EndRepeat
   10
    3,R
    7,L
-#dash
   16,L,Z
    2,R
    5,L
@@ -567,7 +381,6 @@ EndRepeat
    9,R,X
    1,R,J
   22,R,K
-#dash
   15,R,U,Z
    1,L,J,G
    1,L,K,G
@@ -576,41 +389,6 @@ EndRepeat
   40
 
 #lvl_09- Fin
-#1x
-   1
-   9,L
-   1,L,J,G
-   1,L,K,G
-   6,L
-   1,L,J,G
-   3,L
-   1,L,J,G
-   5,L
-   3,L,J
-   4,L
-   1,L,J
-   1,L,K,G
-   9,L
-   1,L,J
-  18,L,D
-   2,L,J
-   3,L
-   1
-   4,L
-   1,L,J
-   4,L
-   1,L,J,G
-   8,L,K,G
-   1,L
-   1,L,J,G
-   1,K,G
-  10,L,K
-  16,R,K
-   7,L,J,G
-#dash
-  14,L,U,X
- 135
+Read,../../Any%/1_Beginner/if_my_driveway,lvl_09- Fin
 
-
-ChapterTime: 1:11.978(4234)
-#16 dashes (+3x)
+ChapterTime: 1:11.961(4233)
