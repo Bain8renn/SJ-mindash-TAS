@@ -1,17 +1,14 @@
-#console wipedebug
-# ^ Optional, used for testing ^
-
+console wipedebug
 console load StrawberryJam2021/0-Lobbies/1-Beginner 1280 816
    1
-
 console hearts 21
-  36
 
-# Start
+#Start
+  36
    5,L
    1,L,J
    4,L
-   1,S
+   1,S,N
    1,D,J
   34
   10,L
@@ -48,8 +45,5 @@ endrepeat
   14,L
    1,L,J
   15,L
-   1,X
-
-#0x
-#355
-FileTime: 0:06.035(355)
+   1,N
+#0:06.035(355)
