@@ -1,14 +1,9 @@
-# StrawberryJam2021
-# https://gamebanana.com/mods/424541
-
-RecordCount: 1042
-
+console clrsav
 console load StrawberryJam2021/0-Lobbies/1-Beginner 3392 -128
    1
 
 #Start
   36
-#lvl_sj2021beginnerlobby
    5,L
    1,L,J
   21,L
@@ -160,7 +155,6 @@ console load StrawberryJam2021/0-Lobbies/1-Beginner 3392 -128
    1,L,J,G
   14,L,G
    1,L,J,G
-
   14,L,G
    4,L
    8,L,J
@@ -340,19 +334,31 @@ console load StrawberryJam2021/0-Lobbies/1-Beginner 3392 -128
    1,R,K
    1,R,J
    1,R,K
-  11,R,J
+  10,R,J
    5,R
-   1,K,G
-   1
-   1,N
-   2
-   2,R
-   1,N
-   9,L
+   2,R,J,G
+   4,R,K,G
+  24,R
+#get bench E
+   6,L
+   1,L,J
    1,L,K
-  21,L
+   1,L,J
+   1,L,K
+   1,L,J
    2,L,K
-  22,L,D
+   1,L
+   1,L,J,G
+   1,L,J,N
+   1,L,J
+   5,L
+   1,L,N
+   1,L
+   1,L,J
+  23,L,D
+   1,L,J
+  21,L,D
+   1,L
    1,L,J
    1,L,K
    1,L,J
@@ -361,20 +367,22 @@ console load StrawberryJam2021/0-Lobbies/1-Beginner 3392 -128
    1,L,K
    1,L,J
    1,L,K
-   3,L
-   7,L,J,G
-   1
-  14,L
-   3,J
+   8,L,J,G
+   5
+   2,K
+   6
+   4,L
    9,L,J
+   2,J
+   1,L,J
    1,L
    7,R,J,G
    7,R
    1,L
   13
+
   11,J,G
-   7
-  16
+  23
   12,J,G
    1
    8,L,J,G
@@ -415,7 +423,6 @@ console load StrawberryJam2021/0-Lobbies/1-Beginner 3392 -128
   17,L
    1
    1,N
-
    3,R,K
    7,R
    1,R,K
@@ -533,6 +540,7 @@ console load StrawberryJam2021/0-Lobbies/1-Beginner 3392 -128
    1,L,K
    9,L,J
   11,L,K,G
-  15,R,J
-
-MidwayChapterTime: 0:59.551(3503)
+  16,R,J
+#1:00.197(3541)
+#LevelLoader
+   1
