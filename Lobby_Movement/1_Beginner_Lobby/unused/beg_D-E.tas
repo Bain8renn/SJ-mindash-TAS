@@ -6,9 +6,8 @@ console load StrawberryJam2021/0-Lobbies/1-Beginner 1280 816
 
 #Start
  125
-#assumes bench F has been unlocked
-   1,F,180
+#assumes bench F has not been unlocked
    1,D,J
   35
-#160 -1f bench interaction +36f respawn animation
-#0:03.315(195)
+#159 -1f bench interaction +36f respawn animation
+#0:03.298(194)
