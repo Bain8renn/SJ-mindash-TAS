@@ -38,8 +38,29 @@ Read,1_Beginner/the_squeeze_ARB,Start
    1,O
   32
 
+#6x
+Read,../../Lobby_Movement/1_Beginner_Lobby/beg_13-14,Start
+Read,../../Enter_Level,Start
+Read,1_Beginner/strawberry_orchard_ARB,Start
+   1,O
+  32
+
+#46x
+Read,../../Lobby_Movement/1_Beginner_Lobby/beg_14-15,Start
+Read,../../Enter_Level,Start
+Read,1_Beginner/paint_ARB,Start
+   1,O
+  32
+
+#8x
+Read,../../Lobby_Movement/1_Beginner_Lobby/beg_15-16,Start
+Read,../../Enter_Level,Start
+Read,1_Beginner/coresaken_city_ARB,Start
+   1,O
+  32
+
 #28x
-Read,../../Lobby_Movement/1_Beginner_Lobby/unused/beg_13-17,Start
+Read,../../Lobby_Movement/1_Beginner_Lobby/beg_16-17,Start
 Read,../../Enter_Level,Start
 Read,1_Beginner/dropzle_ARB,Start
    1,O
@@ -137,36 +158,11 @@ Read,1_Beginner/azure_caverns_ARB,Start
    1,O
   32
 
-#46x
-Read,../../Lobby_Movement/1_Beginner_Lobby/unused/beg_12-D,Start
-Read,../../Lobby_Movement/1_Beginner_Lobby/unused/beg_D-E,Start
-Read,../../Lobby_Movement/1_Beginner_Lobby/unused/beg_E-15,Start
-Read,../../Enter_Level,Start
-Read,1_Beginner/paint_ARB,Start
-   1,O
-  32
-
-#6x
-Read,../../Lobby_Movement/1_Beginner_Lobby/unused/beg_15-14,Start
-Read,../../Enter_Level,Start
-Read,1_Beginner/strawberry_orchard_ARB,Start
-   1,O
-  32
-
-#8x
-Read,../../Lobby_Movement/1_Beginner_Lobby/unused/beg_14-16,Start
-Read,../../Enter_Level,Start
-Read,1_Beginner/coresaken_city_ARB,Start
-   1,O
-  32
-
 #83x
-Read,../../Lobby_Movement/1_Beginner_Lobby/unused/beg_16-E,Start
-Read,../../beg_E-D,Start
-Read,../../Lobby_Movement/1_Beginner_Lobby/unused/beg_D-22,Start
+Read,../../beg_12-22,Start
 Read,../../Enter_Heartside,Start
 Read,../Any%/1_Beginner/blueberry_bay,Start
   61
    1,O
 
-FileTime: 56:31.007(199471)
+FileTime: 56:26.859(199227)
