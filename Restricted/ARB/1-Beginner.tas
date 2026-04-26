@@ -25,35 +25,99 @@ Read,1_Beginner/treehive_ARB,Start
   32
 
 #1x
-Read,../../beg_9-B-8,Start
+Read,../../Lobby_Movement/1_Beginner_Lobby/beg_9-8,Start
 Read,../../Enter_Level,Start
 Read,../Any%/1_Beginner/rose_garden,Start
    1,O
   32
 
-#3x
-Read,../../Lobby_Movement/1_Beginner_Lobby/unused/beg_8-13,Start
+#5x
+Read,../../beg_8-7,Start
 Read,../../Enter_Level,Start
+Read,1_Beginner/potential_for_anything_ARB,Start
+   1,O
+  32
+
+#78x
+Read,../../beg_7-6,Start
+Read,../../Enter_Level,Start
+Read,1_Beginner/troposphere_ARB,Start
+   1,O
+  32
+
+#40x
+Read,../../beg_6-5,Start
+Read,../../Enter_Level,Start
+Read,1_Beginner/a_gift_from_the_stars,Start
+   1,O
+  32
+
+#40x
+Read,../../Lobby_Movement/1_Beginner_Lobby/unused/beg_5-4,Start
+Read,../../Enter_Level,Start
+Read,1_Beginner/switchtube_vista_ARB,Start
+   1,O
+  32
+
+#22x
+Read,../../beg_4-2,Start
+Read,../../Enter_Level,Start
+Read,1_Beginner/collapsing_skyline_ARB,Start
+   1,O
+  32
+
+#1x
+Read,../../beg_2-3,Start
+Read,../../Enter_Level,Start
+Read,1_Beginner/over_the_city_ARB,Start
+   1,O
+  32
+
+#3x
+Read,../../Lobby_Movement/1_Beginner_Lobby/unused/beg_3-13warpTo1,Start
 Read,1_Beginner/the_squeeze_ARB,Start
    1,O
   32
 
-#6x
-Read,../../Lobby_Movement/1_Beginner_Lobby/beg_13-14,Start
+#29x
+Read,../../Lobby_Movement/1_Beginner_Lobby/unused/beg_1-1,Start
 Read,../../Enter_Level,Start
-Read,1_Beginner/strawberry_orchard_ARB,Start
+Read,1_Beginner/loopy_lagoon_ARB,Start
+   1,O
+  32
+
+#16x
+Read,../../Lobby_Movement/1_Beginner_Lobby/unused/beg_1-10,Start
+Read,../../Enter_Level,Start
+Read,1_Beginner/if_my_driveway_ARB,Start
+   1,O
+  32
+
+#20x
+Read,../../Lobby_Movement/1_Beginner_Lobby/unused/beg_10-12,Start
+Read,../../Enter_Level,Start
+Read,1_Beginner/azure_caverns_ARB,Start
    1,O
   32
 
 #46x
-Read,../../Lobby_Movement/1_Beginner_Lobby/beg_14-15,Start
+Read,../../Lobby_Movement/1_Beginner_Lobby/unused/beg_12-D,Start
+Read,../../Lobby_Movement/1_Beginner_Lobby/unused/beg_D-E,Start
+Read,../../Lobby_Movement/1_Beginner_Lobby/unused/beg_E-15,Start
 Read,../../Enter_Level,Start
 Read,1_Beginner/paint_ARB,Start
    1,O
   32
 
+#6x
+Read,../../Lobby_Movement/1_Beginner_Lobby/unused/beg_15-14,Start
+Read,../../Enter_Level,Start
+Read,1_Beginner/strawberry_orchard_ARB,Start
+   1,O
+  32
+
 #8x
-Read,../../Lobby_Movement/1_Beginner_Lobby/beg_15-16,Start
+Read,../../Lobby_Movement/1_Beginner_Lobby/unused/beg_14-16,Start
 Read,../../Enter_Level,Start
 Read,1_Beginner/coresaken_city_ARB,Start
    1,O
@@ -94,75 +158,13 @@ Read,1_Beginner/midnight_spire_ARB,Start
    1,O
   32
 
-#22x
-Read,../../Lobby_Movement/1_Beginner_Lobby/unused/beg_21-F,Start
-Read,../../Lobby_Movement/1_Beginner_Lobby/unused/beg_F-B,Start
-Read,../../Lobby_Movement/1_Beginner_Lobby/unused/beg_B-2,Start
-Read,../../Enter_Level,Start
-Read,1_Beginner/collapsing_skyline_ARB,Start
-   1,O
-  32
-
-#78x
-Read,../../beg_2-6,Start
-Read,../../Enter_Level,Start
-Read,1_Beginner/troposphere_ARB,Start
-   1,O
-  32
-
-#40x
-Read,../../beg_6-5,Start
-Read,../../Enter_Level,Start
-Read,1_Beginner/a_gift_from_the_stars,Start
-   1,O
-  32
-
-#40x
-Read,../../Lobby_Movement/1_Beginner_Lobby/unused/beg_5-4,Start
-Read,../../Enter_Level,Start
-Read,1_Beginner/switchtube_vista_ARB,Start
-   1,O
-  32
-
-#1x
-Read,../../Lobby_Movement/1_Beginner_Lobby/beg_4-3,Start
-Read,../../Enter_Level,Start
-Read,1_Beginner/over_the_city_ARB,Start
-   1,O
-  32
-
-#5x
-Read,../../Lobby_Movement/1_Beginner_Lobby/unused/beg_3-7warpTo1,Start
-Read,1_Beginner/potential_for_anything_ARB,Start
-   1,O
-  32
-
-#29x
-Read,../../Lobby_Movement/1_Beginner_Lobby/unused/beg_1-1,Start
-Read,../../Enter_Level,Start
-Read,1_Beginner/loopy_lagoon_ARB,Start
-   1,O
-  32
-
-#16x
-Read,../../Lobby_Movement/1_Beginner_Lobby/unused/beg_1-10,Start
-Read,../../Enter_Level,Start
-Read,1_Beginner/if_my_driveway_ARB,Start
-   1,O
-  32
-
-#20x
-Read,../../Lobby_Movement/1_Beginner_Lobby/unused/beg_10-12,Start
-Read,../../Enter_Level,Start
-Read,1_Beginner/azure_caverns_ARB,Start
-   1,O
-  32
-
 #83x
-Read,../../beg_12-22,Start
+Read,../../Lobby_Movement/1_Beginner_Lobby/unused/beg_21-F,Start
+Read,../../Lobby_Movement/1_Beginner_Lobby/unused/beg_F-D,Start
+Read,../../Lobby_Movement/1_Beginner_Lobby/unused/beg_D-22,Start
 Read,../../Enter_Heartside,Start
 Read,../Any%/1_Beginner/blueberry_bay,Start
   61
    1,O
 
-FileTime: 56:26.859(199227)
+FileTime: 56:22.065(198945)
