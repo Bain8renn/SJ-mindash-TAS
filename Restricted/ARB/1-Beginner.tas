@@ -17,8 +17,22 @@ Read,1_Beginner/forest_path_ARB,Start
    1,O
   32
 
+#20x
+Read,../../Lobby_Movement/1_Beginner_Lobby/beg_11-12,Start
+Read,../../Enter_Level,Start
+Read,1_Beginner/azure_caverns_ARB,Start
+   1,O
+  32
+
+#16x
+Read,../../Lobby_Movement/1_Beginner_Lobby/beg_12-10,Start
+Read,../../Enter_Level,Start
+Read,1_Beginner/if_my_driveway_ARB,Start
+   1,O
+  32
+
 #48x
-Read,../../Lobby_Movement/1_Beginner_Lobby/unused/beg_11-9,Start
+Read,../../Lobby_Movement/1_Beginner_Lobby/beg_10-9,Start
 Read,../../Enter_Level,Start
 Read,1_Beginner/treehive_ARB,Start
    1,O
@@ -86,23 +100,14 @@ Read,1_Beginner/loopy_lagoon_ARB,Start
    1,O
   32
 
-#16x
-Read,../../Lobby_Movement/1_Beginner_Lobby/unused/beg_1-10,Start
-Read,../../Enter_Level,Start
-Read,1_Beginner/if_my_driveway_ARB,Start
-   1,O
-  32
-
-#20x
-Read,../../Lobby_Movement/1_Beginner_Lobby/unused/beg_10-12,Start
-Read,../../Enter_Level,Start
-Read,1_Beginner/azure_caverns_ARB,Start
-   1,O
-  32
+  36
+   1,Q
+   1,J
+  31
 
 #46x
-Read,../../Lobby_Movement/1_Beginner_Lobby/unused/beg_12-D,Start
-Read,../../Lobby_Movement/1_Beginner_Lobby/unused/beg_D-E,Start
+Read,../../beg_0-A,Start
+Read,../../beg_A-E,Start
 Read,../../Lobby_Movement/1_Beginner_Lobby/unused/beg_E-15,Start
 Read,../../Enter_Level,Start
 Read,1_Beginner/paint_ARB,Start
@@ -167,4 +172,4 @@ Read,../Any%/1_Beginner/blueberry_bay,Start
   61
    1,O
 
-FileTime: 56:22.065(198945)
+FileTime: 56:03.773(197869)
