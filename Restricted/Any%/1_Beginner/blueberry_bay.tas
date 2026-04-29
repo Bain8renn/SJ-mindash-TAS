@@ -1,9 +1,9 @@
-RecordCount: 9413
+RecordCount: 9472
 
 console load StrawberryJam2021/1-Beginner/ZZ-HeartSide
    1
 
-#83x
+#82x
 #Start
  190
 
@@ -2254,7 +2254,7 @@ EndRepeat
   40
 
 #lvl_cp6_03_heartside_Moss_2
-#9x
+#8x
   59
    4,R
   28,R,K
@@ -2274,29 +2274,42 @@ EndRepeat
   21,R
   19,U,X
   41
-  18,R
-  16,U,X
-  18,J
-  15,U,X
-   7,L
-   8,L,K,G
-   4,L,G
+  13,L
+   1,J,G
+ 100
+   1,R,J
+  10,J
+   1
+  15,U,Z
+  12,L,J,G
+   1,K,G
+  10,J,G
+   1,L,J
+   1,R
    1,L
-   9,R
-  29,R,K
+   1,J,G
+  23,R,J
+   7,L,K,G
+   1,J,G
+   7,L
+   2,R
+  28,R,J
   15,U,X
    6,L
-  25,R
-  41
-  14,L
-  16,R
-  15,U,X
-  21,L,K,G
-   1,G
+  26,R
+  53
+  16,L
+  21,G
+   2,J,G
    1
-   1,J
-   2,K,G
-  35,R,K
+   1,J,G
+  17,R
+  15,U,X
+  12,L,J,G
+   7
+  30,G
+   1,R,J
+  37,R,K
   41
   17,R,G
   20,R,X
@@ -2558,4 +2571,4 @@ EndRepeat
    1,L,K,G
   17,L,J,G
 
-ChapterTime: 7:30.075(26475)
+ChapterTime: 7:33.152(26656)
