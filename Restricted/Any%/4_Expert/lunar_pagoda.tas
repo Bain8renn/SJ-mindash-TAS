@@ -1,15 +1,17 @@
 # StrawberryJam2021
 # https://gamebanana.com/mods/424541
 
-RecordCount: 2250
+RecordCount: 2347
 
 console load StrawberryJam2021/4-Expert/spirialis
    1
 
+#18x
 #Start
   99
 
 #lvl_0
+#0x
    4,R
    1,R,J
   14,R
@@ -49,7 +51,9 @@ console load StrawberryJam2021/4-Expert/spirialis
   16,L,K
   12,R,J
   40
+
 #lvl_1-1
+#0x
   15
   20,R
    6,R,J
@@ -83,7 +87,6 @@ console load StrawberryJam2021/4-Expert/spirialis
    1,R,J
   14,R
   10,L,J
-   0,L
    3,R
   18,R,G
    4,R
@@ -96,7 +99,9 @@ console load StrawberryJam2021/4-Expert/spirialis
    1,R,J
   11,R
   40
+
 #lvl_1-2
+#3x
    3,R
    1,R,J
   14,R
@@ -131,9 +136,7 @@ console load StrawberryJam2021/4-Expert/spirialis
    5,R
    1,R,J
   14,R
-  10,R,J
-#
-  11,R,J
+  21,R,J
    2,J
   12
    3,G
@@ -166,9 +169,10 @@ console load StrawberryJam2021/4-Expert/spirialis
    1,R,J
   14,R
    2,R
-   0,R,J
   40
+
 #lvl_2
+#1x
    3,R
    1,R,J
   17,R
@@ -200,8 +204,8 @@ console load StrawberryJam2021/4-Expert/spirialis
   40
 
 #lvl_2-2
+#2x
   12,R,D
-   0,R
   12,R,D,J
   19,L
   23,L,D
@@ -228,102 +232,92 @@ console load StrawberryJam2021/4-Expert/spirialis
   40
 
 #lvl_3-1
-  14,R,U,X
-  26,G
-  17
-   7,R
-  12,R,D,J
-   6,R
-   8,R,J
-   9,L,D
-   2,R,D
-   1,J
-   2
-  15,R,Z
-   8,R
-  71,G
-   1,R
-   1,R,D,J
-  37,R,D
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-  22,R,D
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   2,R
+#1x
+  13,R,U,X
+   7,G
+   9,R
+  18,G
+  35,R
+   8,R,D,G
+  65,R
+  22,R,D,J,G
   40
+
 #lvl_3-2
-  12,R
-  11,R,J
-  20,R
-   1,J
-  21,R,J
-   3,J
-  12,L,K
-   1,J
-  25,L,J
-  11,R,K
-  12,R
-   2,J
-   7,R
-  11,R,J
-   3,R
-   1,K
-  26,R,K
-   2,R,J
-   9,R
-   1,R,J
-   9,R,D
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-  18,R
-  12,F,120
-   1,R,D
-  19,F,79
-   4,R,U
+#0x
+  21,R,J,G
+   1,K,G
+  24,R,K,G
+  13,L,J,G
+   1,K,G
+  25,L,K,G
+  23,R,J,G
+   1,K,G
+   4,R,K,G
+  11,R,G
+  12,R,J,G
+   2,R,G
+   1,K,G
+  26,R,K,G
+   1,R,J,G
+  14,R,G
+   1,R,J,G
+  14,R,G
+   1,R,J,G
+  14,R,G
+   1,R,J,G
+  14,R,G
+   1,R,J,G
+  15,R,G
    1,R
-   1,R,D
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-   1,R,J
-   1,R,K
-  15,R
-   1,R,J
-   3,R,K
-   8,R
-   1,R,J
-  14,R
-   1,R,J
-   6,R
+   1,R,G
+   1,R
+   1,R,G
+   1,R
+   1,R,G
+   1,R
+   1,R,G
+Repeat, 15
+   1,F,110
+   1,G,F,110
+EndRepeat
+Repeat, 20
+   1,R
+   1,R,G
+EndRepeat
+Repeat, 11
+   1,R,U
+   1,R,U,G
+EndRepeat
+Repeat, 6
+   1,R
+   1,R,J,G
+EndRepeat
+   1,R,K,G
+   1,R,J,G
+   1,R,K,G
+  14,R,G
+   2,R,J,G
+   9,R,G
+   1,R,J,G
+  14,R,G
+   1,R,J,G
+   3,R,G
   40
+
 #lvl_5
-   9,R
-   1,R,J
-  20,R
+#2x
+  11,R,G
+   1,R,J,G
+   6,R,G
+  15,R
   35,G
    0,R
    7,L
    1,L,G
    1,L,J,G
-  16,L,G
-  72,G
+  29,L,G
+  59,G
    5,R,G
    1,R,J,G
   13,R,G
@@ -370,7 +364,9 @@ console load StrawberryJam2021/4-Expert/spirialis
    1,R,J
    6,R
   40
+
 #lvl_6
+#0x
    9,R
    2,R,G
    1,R,J,G
@@ -476,7 +472,9 @@ console load StrawberryJam2021/4-Expert/spirialis
    1,R,J
    5,R
   40
+
 #lvl_7 (0)
+#0x
    9,R
    1,R,J
   14,R
@@ -500,7 +498,9 @@ console load StrawberryJam2021/4-Expert/spirialis
    1,R,J
    1,R
   40
+
 #lvl_7-1
+#0x
   13,R
    1,J
    3,R
@@ -513,6 +513,7 @@ console load StrawberryJam2021/4-Expert/spirialis
   40
 
 #lvl_7 (1)
+#5x
    1,S
    1,D,J
   69,O
@@ -572,7 +573,9 @@ console load StrawberryJam2021/4-Expert/spirialis
    3,R,G
    5,R,J,G
   40
+
 #lvl_8
+#3x
    1,R,J,G
   19,R,G
   13,R,J,G
@@ -721,7 +724,9 @@ console load StrawberryJam2021/4-Expert/spirialis
    1,R,J
   11,R
   40
+
 #lvl_end
+#1x
    3,R
    3,R,J
   16,R
@@ -733,14 +738,4 @@ console load StrawberryJam2021/4-Expert/spirialis
    6,R
  135,L,D
 
-#2:07.755(7515)
-
-
-
-
-
-
-
-
-   
-   
+ChapterTime: 2:07.483(7499)
