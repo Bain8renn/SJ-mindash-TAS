@@ -1,7 +1,7 @@
 # StrawberryJam2021
 # https://gamebanana.com/mods/424541
 
-RecordCount: 2369
+RecordCount: 2435
 
 console load StrawberryJam2021/3-Advanced/sp1029
    1
@@ -9,37 +9,46 @@ console load StrawberryJam2021/3-Advanced/sp1029
 #Start
    1,L,J
    5,L
-  24,R,G
+   9,R
+  13,R,G
    1,R,J,G
   14,R,G
    9,R,J,G
-   6,L,G
-   1,L
-   3,R,J
-   6,L,J
-  17,R
-   7,R,U,G
-   1,R,G
-   1,R,U,G
-   1,R,G
-   4
-   1,G
-   3
-   1,G
-   3
-  12,R,Z
+   6,L,D,G
+   1,L,J,G
+  14,L,G
+   1,L,J,G
+  13,L,G
+   6,L
+   5,J
+   1,L,J
+   3,J
+   5
+   2,J
+   1
+   2,R
+  26,R,D,G
+   1,R,J,G
+  14,R,G
+   1,R,J,G
+  14,R,G
+   4,R,J,G
+   6,R,G
+   1,J,G
+   1,J
+   2,D
+   4,R,D
    1,R,J
-   6,R
-   2,R,J
-  20,R
-   9,R,D
-   3,L,D
-  14,R,D
+  14,R
+   9,R,J
+  19,R
+  29,R,D
+   1,R
    1,R,J
    3,R
   40
-
-#[a-02] - 217 - 217f - 1x
+#lvl_a-02
+# 0x
   11,R
    3,R,J
   17,R,J,G
@@ -73,8 +82,8 @@ console load StrawberryJam2021/3-Advanced/sp1029
    3,R,K
   12,R,J,G
   40
-
-#[a-04] - 528 - 311f - 2x
+#lvl_a-04
+# 2x
    1,J,G
    1,L,J
   14,R,K,G
@@ -126,8 +135,8 @@ console load StrawberryJam2021/3-Advanced/sp1029
    1,R,J
   13,R
   40
-
-#[a-05] - 917 - 389f - 0x
+#lvl_a-05
+#0x
    1,R
    3,R,J
    5,R
@@ -194,8 +203,8 @@ console load StrawberryJam2021/3-Advanced/sp1029
    1,R,J,G
   13,R
   40
-
-#[a-06] - 1532 - 733f - 1x
+#lvl_a-06 (0)
+# 1x
    3,R
    1,R,J
   14,R
@@ -226,8 +235,8 @@ console load StrawberryJam2021/3-Advanced/sp1029
    1,K
    9,R,K
   40
-
-#[a-07] - 1737 - 207f - 0x
+#lvl_a-07 (0)
+# 0x
   12,R
    2
    1,R
@@ -265,15 +274,22 @@ console load StrawberryJam2021/3-Advanced/sp1029
    1,R
   38
   10,L
-  88,D
+  45,D
+  40
+#lvl_a-06 (1)
+# 1x
+   3,D
   11,R,J
-  44
+  40
+#lvl_a-07 (1)
+# 0x
+   4
   72,O
    1,R,J
   11,R
   40
-
-#[a-08] - 2312 - 890f - 1x
+#lvl_a-08 (0)
+# 0x
    3,R
    1,R,J
    6,R
@@ -282,7 +298,14 @@ console load StrawberryJam2021/3-Advanced/sp1029
   26,L,G
    2,G
    1,L,J,G
-  95,R,G
+   6,R,G
+  40
+#lvl_a-07 (2)
+# 0x
+   9,R,G
+  40
+#lvl_a-08 (1)
+# 0x
    1,R,J,G
   14,R,G
    3,R,J,G
@@ -347,8 +370,8 @@ console load StrawberryJam2021/3-Advanced/sp1029
   33,R
   14,R,Z
   40
-
-#[a-09] - 3082 - 348f - 2x
+#lvl_a-09
+# 3x
    1,R,J
    7,R
    3,R,J
@@ -418,8 +441,8 @@ console load StrawberryJam2021/3-Advanced/sp1029
    3,R,J
    1,R
   40
-
-#[a-11] - 3612 - 517f - 3x
+#lvl_a-11
+# 3x
    3
   14,R,D
   10,D
@@ -476,20 +499,20 @@ console load StrawberryJam2021/3-Advanced/sp1029
    1,R,K,G
   11,R,D
   40
-
 #lvl_a-13
+# 4x
    8,R,D
    1,R,J
   14,R
    1,R,J
   14,R
    1,R,J
-  14,R
+  21,R
   10,R,J
   11,R
   24,R,U,Z
-  59,L,D,X
+  57,L,D,X
    1,L,J
-  79,L
+  81,L
 
-ChapterTime: 1:17.758(4574)
+ChapterTime: 1:19.339(4667)
