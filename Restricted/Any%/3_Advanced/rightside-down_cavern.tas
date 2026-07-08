@@ -1,4 +1,4 @@
-RecordCount: 12458
+RecordCount: 12872
 
 console load StrawberryJam2021/3-Advanced/Vamp
    1
@@ -31,119 +31,102 @@ console load StrawberryJam2021/3-Advanced/Vamp
    1,R,J
   32,R,K
    7,R,J,G
-   4,R,K,G
-   1,J,G
-   2,L,J
+   5,R,K,G
+   1,L,J
   11,L,K
-  10,J,G
-   1,K,G
-   4,L
-   1
-   1,L
-   2
-   1,R
-  20,R,J
-  27,R,U
-   2,U
-   3
-   2,U
-   1,R,U
-   3
-   1,R
-   1
-   5,U
-  16,L,U
+  24,R,J
+  29,R,U
+
+  18,U
+   3,L,U
    3,U
-   3
-   7,U
-  14,R,U
+
+  17,L,U
+  26,R,U
   15,R,U,X
   15,L,U,C
-  14,U
-   3
-  15,U
-  15,R,U
-   2,U
-   1
-   1,R
-   1
+  32,U
    1,R,U
-   7,R,J
-  12,R
-   1
-   1,R
-   1
-   1,R,J,G
-   2,L,J
-   7,R,J
-   7,R
+   1,U
+  19,R,U
+
+   8,R,J
+   5,R
    1,R,J
-   9,R
+   1,R
+   1,R,J
+   3,R
+
+   4
+   4,J,G
+   4,R,J
+   5,R
+   2,R,J
+  10,R
+   1,R,J
+  21,R,U
    1,R,J
   21,R
    1,R,J
-  20,R
-   1,R,J
-  15,R
+  24,R
   24,R,J
-   4,R
-  23,R,D,Z
-   1
+  16,R,D,X
   41,R
    1,R,J,G
    2,R,K,G
    1,K
-   3,R,K
-   1,R,J,G
    3,R
    1,R,J,G
-  13,R
+   2,R
+   1,R,J,G
+  12,R
    1,R,J
-   3,R
+   4,R
   40
 
 #3x
 #lvl_Vamp_2
-   3,R
+   4,R
    1
-   2,R
-   2
+   3,R
    1,R,J,G
    1,R,K,G
-   6,R
+   1
+   5,R
    1,R,J
    6,R
    1,R,J
    1,R,K,G
    9,R
-   2,R,J
-   1,R
+   1,R,J
+   1,J
    1,R,K,G
-   2,R
-   6,R,J,G
-  23,R,D
+   2
+   1,R
+   5,R,J,G
+   5,R
+   1,R,J
+  16,R,D
   53,R,U
-  23,R,Z
-  34,R,D
-  30,U
-  27,R,U
-   8,R
-  28,L,D
-  19,R,D
-   3,R
+   1,R
   14,R,Z
-  16,D
-   6,R,D
-   4,R
-  21
-  23,R,U
-  16,L,U
-  16
-   1,R,J,G
+  44,R,D
+  20,R,U
+  30,U
+   6,R,U
+  12,R,D
+  24,L,D
+  27,R,D
+  14,R,Z
+  19,D
+  21,U
+  20,R,U
+  17,U
+   8,L
+  13,R
+  15,R,U,G
 #Wait for moonblock
- 128,G
-   1,U,G
-   1,G
+ 116,G
    2,D,G
    1,R,J,G
    6,L,J
@@ -164,84 +147,72 @@ console load StrawberryJam2021/3-Advanced/Vamp
   14,R,D
    6,R
   18,R,U
-  20,U
-  15
-   2,L
+   3,U
+   3,R,U
+   1,U
+   1,R,U
+   1,U
+  19,R,U
+   8,L,U
+   8,L,D
+  13,D
+   5,R,D
+  20,R,D,X
    2
-   1,R
-   1
-  29,R,D
-  15,R,D,X
-   6,R,D
-   1,R
-   1,R,D
    1,R,J
    1,R,K
    1,R,J
    1,R,K
-   1,R,J
-   4,J
-  10,R,J
-   1,J
-   3,R,J
-   1,R
-   1,R,G
-   2,R,J,G
-   1,L,J
-   4,R,J
-  18,R
-  10,R,J
-  19,R
-   1
-   1,D
-   2,R,D
-   1,R,J,G
+  20,R,J
    1,R,K,G
-   4,R
+   1,L,K
+   5,R,K
+  17,R
+   9,R,J
+  20,R
+   2
+   2,R
+   1,R,J,G
+   3,R,K,G
+   2,R
   40
-
 #1x
 #lvl_Vamp_3
    1,R
   72,O
-#Wait for moonblock
- 207
-   1,L
-   1
-   2,R
-   2
-   8,R
    1,R,J
-  14,R
-   6,R,J
-   6,R
-   1,R,J
+  19,R
+   7,R,J
   17,R
-   2
-  27,R,J
-  34,R
-  12,R,D
-  13,L
-   7,R,D
    1
-  47,R,J
-  47,R,U,J
-   5
-  43,R,X
-  44,R,D
-   1,D
-   4,R,D
-   1,D
-   4,R,D
-   1,U
    1,R
-   1,U
-   1,R,J,G
-   9,R
-   1,R,J
-   4,R
+   7,R,U
+   4,L
+   1,J
+   1,K,G
+   6,L
+   4
+   1,R
+  37,R,J
+  33,R,D
+   6,L,D
+   6,L
+  52,R
+   7,R,J
+  28,R,U
+   1,R
+   1
+  14,R,X
+  30,R
+  15,R,D
+  41,R,J
+  10,R,U
+   2,R,J,G
+  10,R
+   1
+   1,R
    2
-   1,R
+   2,R
    1,R,J
    1,R,K,G
    1,R,J,G
@@ -867,4 +838,4 @@ console load StrawberryJam2021/3-Advanced/Vamp
    1,R
   63,R,J
 
-ChapterTime: 1:59.901(7053)
+ChapterTime: 1:55.923(6819)
