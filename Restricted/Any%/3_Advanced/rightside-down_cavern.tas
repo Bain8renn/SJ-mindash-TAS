@@ -1,9 +1,9 @@
-RecordCount: 13388
+RecordCount: 13582
 
 console load StrawberryJam2021/3-Advanced/Vamp
    1
 
-#20x
+#19x
 #Start
   90
 
@@ -172,6 +172,7 @@ console load StrawberryJam2021/3-Advanced/Vamp
    3,R,K,G
    2,R
   40
+
 #1x
 #lvl_Vamp_3
    1,R
@@ -285,7 +286,7 @@ console load StrawberryJam2021/3-Advanced/Vamp
   19,R
   40
 
-#4x
+#3x
 #lvl_Vamp_5
    1,R
    1,R,J
@@ -321,89 +322,81 @@ console load StrawberryJam2021/3-Advanced/Vamp
   22,R
    3,R,U
    1,J
-  15,L,J
-  10
-   2,R
-   9,R,Z
-  26,R,J
-  14,R,D
-   4,L,D
-  53
-   1,J
-   8
-   2,J
-   5
-   5,L,Z
-   1,R,J
-   6,R
-   1,R,J
-   1,R,K,G
-   2,R
-   1
-   6,R
-   1,R,J
-   4,R
-   1
-  12,R
-  37,R,J
-  14,U,X
-   6,R
-  20,R,J
-  15,R
-   1,R,J
-  14,R
-   1,R,J
-   6,R
+   9,L,J
+   6,L
+   7
+  30,R
+  19,R,Z
    4
-   4,R
-   1,R,J
-   1,R,K,G
-   1,R,J,G
-   5,R
-   1,R,J
-   7,R
+   1,J
    1
-   1,R
-   2
-   1,R,D,J
-   1,R
+   2,R
    1,R,J,G
-   1,R,K,G
-  20,R
+  14,R
+  30,R,J
+   2
+   2,R
+  10,L
+   6,L,Z
    1,R,J
+   4,R
+   4,R,U
+  10,R,J
+   1
+   4,R
+   5,R,J
+   7,R
+   1,R,J,G
+  12,R
+  22,R,J
+  19,R
+  54,R,J
+   1,R,G
+   2,R,J,G
+  18,R,U
+   3,R,J
+  10,R
+  10,L,U
+   1,J
+   1,K,G
+   5
+   1,J
+   4
+   5,R
+   1,R,J,G
+  28,R,K,G
   40
 
 #2x
 #lvl_Vamp_6
-   2,R
-   2
-   6,R
-   1,R,J,G
-   1,R,K,G
-  14,R
-  10,R,J
-   5,R
-   2,R,J
-  16,R
-   2
-   3,J,G
+   1,S
+   1,D,J
+  69,O
    4,R,J
-   1,J
+   5,R
+   1,R,J
+  14,R
+   1
+   1,R,J
+   9,R,K
+  18,R
+   2,R,J,G
+   1,L,J
+   2,J
    3,R,J
-   8,R
-   1,R,J,G
-   3,R
+   5,R
+   5,R,J
+   2,R,K,G
+   2,R
    1,R,J,G
    1,L,J
    2,J
-  12,R,J
+  11,R,J
   11,R,Z
   10,R,J,G
-   7,R
-   1,R,J
-   1,R
-   1,R,J
-  14,R,D
+   9,R
+   2,R,J
+  13,R,D
   48,R,U
    4
    1,R,U
@@ -418,8 +411,7 @@ console load StrawberryJam2021/3-Advanced/Vamp
    1,K
    3,R,K
   27,R,D,X
-   1
-   1,R
+   2,R
    1
    1,R
    2
@@ -853,4 +845,4 @@ console load StrawberryJam2021/3-Advanced/Vamp
    1,R
   66,R,J
 
-ChapterTime: 1:51.469(6557)
+ChapterTime: 1:52.914(6642)
