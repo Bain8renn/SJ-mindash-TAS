@@ -1,7 +1,7 @@
 # StrawberryJam2021
 # https://gamebanana.com/mods/424541
 
-RecordCount: 2778
+RecordCount: 2816
 
 console load StrawberryJam2021/3-Advanced/mmm
    1
@@ -387,7 +387,8 @@ console load StrawberryJam2021/3-Advanced/mmm
 
    3,R,J
    7,J
-  21
+  16
+   5,L
   12,R,J
    4,L,J
    7,L
@@ -398,23 +399,24 @@ console load StrawberryJam2021/3-Advanced/mmm
    3,R
    5,R,D
    6,L,D
-  10,R,D
-  56,R
-  68,R,D
+   3,D
+   7,R,D
+  48,R
+  73,R,D
    5,R
    5,R,J
   40
 
 #lvl_a10
 #(1x)
-  21,R,J
-  20,R
+  16,R,J
+  24,R
    6,R,J
    7,R
   10,R,J
-  15
-  44,L,D,X
-  95,L,J
+  14,R
+  53,L,D,X
+  86,L,J
 
-ChapterTime: 1:13.287(4311)
+ChapterTime: 1:13.202(4306)
 #14 dashes
