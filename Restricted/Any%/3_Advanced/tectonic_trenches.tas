@@ -1,12 +1,15 @@
 # StrawberryJam2021
 # https://gamebanana.com/mods/424541
 
-RecordCount: 2575
+RecordCount: 2839
 
 console load StrawberryJam2021/3-Advanced/Julia
    1
+# 9x
+
 
 #Start
+# 0x
   69
    1,R,J
   14,R
@@ -34,87 +37,83 @@ console load StrawberryJam2021/3-Advanced/Julia
    1,R,J
   10,R
   40
-
-#[a-02] - (249) -249f -0x
+#lvl_a-02
+# 4x
    4,R
    1,R,J
   14,R
-  22,R,J
-   1,R
    1,R,J
+  14,R
+   7,R,J
    6,R
    1,K
-   3,R,U,K,G
-   5,L,U,K,G
-  24,L,K
-   4,L
-  17,U,X,G
-  48,D
-   7,R,D
-  21,R
+   3,R,K
+   4,L,K
+  21,L,U,K,G
+   8,L
+  37,U,J,X,G
+  27,D
+  10,R,D
+  20,R
+  17,U,X
+  31,R,U,J,G
    1,R,D
-   1,R
-   1,R,D
-  14,U,X
-  17,R,U,J,G
-  15,L,U,J,G
-  21,R,U,X
-  21,R,U,J,G
+   5,R,U,X
+  38,L,U,G
    1,L
-  39,L,D,G
-  19,L,U,G
-   6,R,U,G
-   1,R,D
-  41,U,G
-   5,D,G
-  30,U,G
-   1,R,U,G
-   1,R,D,G
-   1,R,U,G
-   1,R,D,G
-   1,R,U,G
-   1,R,D,G
-   1,R
-  41,R,D,G
-  29,L,D,G
-   7,D,G
-   1,L,D,G
-   4,D,G
-  17,R,D,G
-   8,R,U,G
-   1,L
-  54,R,G
-   5,J,G
-   1,R,J
+  17,R,J
+  20,R,G
    2,L,J
-   1,K
-  26,R,K
-  22,R,G
-   3
-   2,J,G
+  22,L
+   1
+   1,L
+  15,L,D,G
+  25,R,D,G
+   1,R
+   7,D
+   3,R,D
+   3,R
+   1,R,D
+  26,R,D,G
+   1,R,G
+   1,L,G
+  28,L,D,G
+  16,R,D,G
+  14,R,U,G
+   1,L
+  49,R,G
+   7,J,G
    1,L,J
-   1,R,K,G
-   1,R,J,G
-   1,R,K,G
-  21,K,G
+  17,L,K
+  11,J,G
+   1,R,J
    1,R,K
-   1,R,J,G
-  10,R
-   6,L,D,X
+  11,R,J
+   1,R
+   9,R,K,G
+  29,J,G
+   1,R
+   4,R,J,G
+   7
+   3,R
+   1,R,J
+   6,L,Z
    1,R,J
    7,R
    1,R,J
-  16,R,U,J,G
-  11,R,D,G
-   2,R,J,G
-  12,R,D,G
-   6,L,D,G
-  27,D,G
-  17,L,D,G
-  45,R,D,G
-   2,D,G
+  17,R,U,J,G
+  25,R,D,G
+  16,L,D,G
+  33,D,G
+   9,L,D,G
+  11,D,G
+  27,R,D,G
+   6,R,G
+   2,G
+   2,R,G
+   3,G
+   3,R,G
    2,R,D,G
-  12,R,G
    3,R
    1,R,J
    1,R,K,G
@@ -124,7 +123,9 @@ console load StrawberryJam2021/3-Advanced/Julia
    7,R
   13,R,U,K,G
   40
-#[a-03] - (1143) -894f -5x
+#lvl_a-03
+# 0x
+
    5,R,G
    1,J,G
    2,R,J,G
@@ -209,7 +210,10 @@ console load StrawberryJam2021/3-Advanced/Julia
    1,R,J,G
   26,R,D,G
   40
-#[a-04] - (2090) -947f -0x
+#lvl_a-04
+# 0x
+
+
    2,R,D,G
    1,R,J,G
   33,R,D,G
@@ -328,7 +332,10 @@ EndRepeat
    1,R,J
    7,R
   61
-#[a-05intro] - (4157) -1469f -0x
+#lvl_a-05intro
+# 0x
+
+
    7,R
    1,R,J
   10,R
@@ -362,8 +369,9 @@ EndRepeat
    1,R,J
    1,R
   61
+#lvl_a-05
+# 4x
 
-#[a-05] - (4445) -288f -0x
   16,R
    1,R,J
   14,R
@@ -373,7 +381,7 @@ EndRepeat
   13,R
    7
    1,X
- 157,R
+ 159,R
    1,J
   19
    4,L,J
@@ -482,7 +490,9 @@ EndRepeat
    1,R,J,G
    6,R,D,G
   40
-#[a-07] - (5577) -1132f -4x
+#lvl_a-07
+# 0x
+
   22,R,D,G
   10,R,J,G
    1,R,G
@@ -565,7 +575,9 @@ EndRepeat
    1,D,G
   27,R,D,G
   40
-#[a-06] - (7188) -1453f -0x
+#lvl_a-06
+# 1x
+
    1,R,J,G
   28,R,D,G
    8,R,J,G
@@ -574,4 +586,4 @@ EndRepeat
   53,R,J,G
    1,L
  152,R,U,X
-ChapterTime: 2:03.165(7245)
+ChapterTime: 2:02.451(7203)
