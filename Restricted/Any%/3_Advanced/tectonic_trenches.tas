@@ -1,7 +1,7 @@
 # StrawberryJam2021
 # https://gamebanana.com/mods/424541
 
-RecordCount: 3636
+RecordCount: 3965
 
 console load StrawberryJam2021/3-Advanced/Julia
    1
@@ -444,104 +444,88 @@ EndRepeat
 # 0x
 
   22,R,D,G
-  10,R,J,G
+   7,R,J,G
+   7,R,K,G
+   1,R,G
+  73,R,U,J,G
+   2,R
+   1,R,J,G
+   4,R,K,G
+   5,R,J,G
+   8,R,K,G
+  37,R,J,G
+   4,R,G
+   6,R,J,G
    1,R,G
   82,R,U,J,G
+  19,R,D,G
+   9,R,J,G
+  82,R,U,G
+   7,R,D,G
+  70,R,U,G
    1,R
-   1,R,J,G
-   2,R,K,G
-   2,R
-  51,R,J,G
-   2,R
-   4,R,K,G
-  30,R
+   3,J,G
+   7,R,J
+   1,L
+   6,L,J
+  21,L,U,J,G
+   1,R
+   5,L,J
+   3,K,G
+   1,R,K
    1,R,J
-  74,R,J,G
-  23,R,D,G
-   1,R,J,G
-   1,R,G
-  56,R,U,J,G
-   8,R,D,G
- 100,R,U,G
-   1
-   4,J,G
-   6,R,J,G
-  21,R,G
-  23,L,J,G
+  16,R,K
+   4,K
+  21,U,J,G
+
+Repeat, 3
    1,D,J
-  17,K
-  21,R,J,G
-   1,R,D
-  14,J,G
-   7,R,J,G
-   1,D
-
-Repeat, 4
-  18,J,G
-   3,R,J,G
-   1,R,D
+  22,U,J,G
 EndRepeat
 
-  27,G
-   1,R,D
-  21,R,D,G
-   1,R,D
-  17,R,D,G
-   4,D,G
-   1,D
-  21,D,G
-  25,D
-   7,L,D
-   3,L
-
-Repeat, 52
-   1,G
+   1,L,J
+  38,R,U,J,G
+   9,U,J,G
+   6,L,D
+   1,L,G
+   1,J,G
+  12
+   1,R,U,J,G
+  20,U,J,G
    1
-EndRepeat
+   1,R,J
+  37,R,U,J,G
+   2,U,J,G
+   1,D,J
+  21,U,J,G
+   1,L,J
+ 113,R,U,J,G
+  50,R,D,G
 
-   8,J
-  18,L
-
-Repeat, 12
-   1,G
-   1
-EndRepeat
-
-   1,J
-   4,R,J
-   4,J
-  21,J,G
-   1,D
-  21,R,J,G
-   1,R,D
-  16,R,J,G
-   5,J,G
-   1,R,D
-  17,J,G
-   4,R,J,G
-   1,R,D
-
-Repeat, 7
-  18,J,G
-   3,R,J,G
-   1,R,D
-EndRepeat
-
-  85,R,U,J,G
-  74,R,D,G
-   1,R,J,G
+Repeat, 8
    1,D,G
-  27,R,D,G
+   1,R,D,G
+EndRepeat
+
+   1,L
+   8,R
+   1,R,J,G
+   1,R,K,G
+   9,R
+   1,R,J
+  10,R
   40
 #lvl_a-06
 # 1x
 
-   1,R,J,G
-  28,R,D,G
-   8,R,J,G
+   4,R
+   1,R,J
+  14,R
+   1,R,J
+   8,R
    1,S
    1,D,J
-  53,R,J,G
-   1,L
- 152,R,U,X
-ChapterTime: 1:51.010(6530)
+  40,R
+  13,R,J
+ 154,R,U,X
+ChapterTime: 1:43.547(6091)
