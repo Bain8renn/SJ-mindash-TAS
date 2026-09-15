@@ -1,7 +1,7 @@
 # StrawberryJam2021
 # https://gamebanana.com/mods/424541
 
-RecordCount: 12384
+RecordCount: 12437
 
 console load StrawberryJam2021/3-Advanced/Worldwaker2
    1
@@ -47,12 +47,13 @@ console load StrawberryJam2021/3-Advanced/Worldwaker2
 
 #lvl_2 (0)
 #2x
-  25,R,J,G
-  18,R,D,G
-   8,R,J,G
-   1,R,K,G
-  16,R,J,G
-   4,R,J
+   1,R,J
+  14,R
+   1,R,J
+  20,R
+   8,R,J
+   1,R,K
+  23,R,J
   16,U,X
   22,J,G
    4,J
@@ -63,27 +64,28 @@ console load StrawberryJam2021/3-Advanced/Worldwaker2
    2,R,J
    2,R
   19,R,K
-  40,R,U,K,G
-   1,R,G
+  41,R,U,K,G
    1,R,J,G
-   1,R,K,G
-   1,R,K
-  15,R
-  26,R,J
-  79,R,U,J,G
+   9,R,K,G
+   9,R,U,G
+   3,R,U,J,G
+   3,R,U,G
+   1,R,U,J,G
+  74,R,U,G
    1,R,G
-  11,K,G
-   1,L
+   1,R,U,G
+   1,K,G
+   3,K
+   1,L,K
    1,L,J
   12,L,K
-   4,J,G
-   1,J
-   1,R
-   1,L
+   1,J,G
+   7,J
+   1,R,J
+   1,L,J
    1,K,G
-   4,R,K
-   1,K
-   2,R,K
+   5,R,K
+   2,K
   23,R,U,Z
   36,R,D,G
   10,R,J
@@ -132,9 +134,6 @@ console load StrawberryJam2021/3-Advanced/Worldwaker2
    1,L
    4,L,J
    3,L
-
-
-
   20,L,J
    2,J
   11,K,G
@@ -188,9 +187,7 @@ console load StrawberryJam2021/3-Advanced/Worldwaker2
    1,J,G
    1,R,J
   14,L
-
-  76
-
+  58
    6,L
    1,L,J
    1,K,G
@@ -762,14 +759,11 @@ console load StrawberryJam2021/3-Advanced/Worldwaker2
   38,L,D,G
    1,D,G
    1,L,D,G
-
    9,L,D
   52,R,D
   63,R,D,G
    2,R,G
    1,D,G
-
-
    6,R,J,G
    4,R,G
    1,R,K,G
@@ -1072,7 +1066,6 @@ console load StrawberryJam2021/3-Advanced/Worldwaker2
   12,L,J
   34,L,U,J,G
    6,L,D,G
-
    2,K,G
    1,R,K,G
    1,R,J,G
@@ -1102,7 +1095,6 @@ console load StrawberryJam2021/3-Advanced/Worldwaker2
   22,L,J
   46,L,U,J,G
    1,K,G
-
    6,L,K,G
   12,L,G
    5,L,J,G
@@ -1118,11 +1110,6 @@ console load StrawberryJam2021/3-Advanced/Worldwaker2
    1,S
    1,D,J
   69,O
-
-
-
-
-
    2,L
   22,L,J
    1,K,G
@@ -1231,7 +1218,6 @@ console load StrawberryJam2021/3-Advanced/Worldwaker2
    9,L,K,G
   40
 
-
 #lvl_8
 #1x
   11
@@ -1313,5 +1299,5 @@ EndRepeat
    2,R,D
    4
 
-ChapterTime: 3:00.098(10594)
+ChapterTime: 2:59.282(10546)
 #12x
