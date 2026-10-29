@@ -652,7 +652,7 @@ EndRepeat
   46,R,D
   18,R,J
 
-#7x
+#6x
 #lvl_heartside_MousseMoose
    8,R
    1,S
@@ -1563,7 +1563,7 @@ EndRepeat
    8,R
   40
 
-#8x
+#6x
 #lvl_heartside_bluexans
    3,R
 
@@ -1864,7 +1864,7 @@ EndRepeat
   16,R,D,G
   40
 
-#4x
+#3x
 #lvl_heartside_Julia
   12,R,D,G
    1,R,J,G
@@ -2819,7 +2819,7 @@ EndRepeat
   14,R
   40
 
-#8x
+#6x
 #lvl_heartside_Goldian
    1,R,J
   14,R
@@ -2893,7 +2893,7 @@ EndRepeat
   12,R,Z
   40
 
-#7x
+#4x
 #lvl_heartside_jolly
    2,R
    1,R,J
